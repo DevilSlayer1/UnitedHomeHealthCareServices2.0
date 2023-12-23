@@ -255,6 +255,7 @@ header{
 }
 /*Prevent section*/
 .prevent{
+    overflow: auto;
     padding: 95px 0px;
 }
 .prevent-wrapper{
