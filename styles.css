@@ -3,7 +3,7 @@
     margin: 0;
     /* Standard syntax */
     user-select: none;
-
+    overflow-y: hidden;
     /* Vendor prefixes for older browsers */
     -webkit-user-select: none; /* Chrome, Safari, and newer versions of Opera */
     -moz-user-select: none; /* Firefox */
