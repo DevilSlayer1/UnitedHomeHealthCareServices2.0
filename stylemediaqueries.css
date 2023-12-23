@@ -5,6 +5,9 @@
 }
 @media only screen and (max-width: 600px) {
     /* Styles for phones */
+    .logo-container .img-logo img{
+        height: 55px;
+    }
     .navbar i{
         display: block;
     }
