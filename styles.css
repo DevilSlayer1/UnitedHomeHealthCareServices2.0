@@ -10,7 +10,9 @@
     -ms-user-select: none; /* Internet Explorer/Edge */
 
 }
-
+i{
+    overflow: hidden;
+}
 body{
     font-family: 'Netflix Font', sans-serif;
     background: url(images/home-bg.jpg) no-repeat;
