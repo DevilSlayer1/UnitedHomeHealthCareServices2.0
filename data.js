@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     const death=document.getElementById('det');
     async function getdatacovid()
     {
+        error.innerHTML=``;
         const response =await fetch(apiurl);
         let data = await response.json();
         console.log(data);
@@ -27,6 +28,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         console.log(countryinputted);
         if(countryinputted=='India' || countryinputted=='india')
         {
+            error.innerHTML=``;
             pop.innerHTML="India";
             const apiurl="https://disease.sh/v3/covid-19/gov/India";
             const active=document.getElementById('act');
