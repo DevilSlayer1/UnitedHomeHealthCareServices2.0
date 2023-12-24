@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded',()=>{
                     console.log(data);
                     if(response.ok)
                     {
+                        error.innerHTML=``;
                         active.innerHTML=data.active.toLocaleString();
                         total.innerHTML=data.cases.toLocaleString();
                         discharged.innerHTML=data.recovered.toLocaleString();
