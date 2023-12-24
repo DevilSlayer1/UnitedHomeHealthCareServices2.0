@@ -47,6 +47,14 @@ document.addEventListener('DOMContentLoaded',()=>{
             }
             getdatacovid(); 
         }
+        else if(countryinputted=='')
+        {
+            error.innerHTML=`No country entered!`;
+            active.innerHTML=data.total.todayActive.toLocaleString();
+            total.innerHTML=data.total.cases.toLocaleString();
+            discharged.innerHTML=data.total.recovered.toLocaleString();
+            death.innerHTML=data.total.deaths.toLocaleString();
+        }
         else
         {
                 pop.innerHTML=countryinputted;
