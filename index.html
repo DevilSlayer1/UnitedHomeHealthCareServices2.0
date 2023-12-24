@@ -29,7 +29,7 @@
                     <li id="prevent">Prevent</li>
                     <li id="symptoms">Symptoms</li>
                     <li id="precaution">Precaution</li>
-                    <li id="services">Services</li>
+                    <li id="data">COVID-19 data</li>
                     <li id="contact">Contact</li>
                     
                 </ul>
@@ -256,6 +256,68 @@
                     </div>
                 </div>
             </div>
+            <div class="covid-data mxltop">
+                <h2 class="custom-color fw-normal center">COVID-19 DATA</h2>
+                <section class="services-container mltop">
+                    <!--<div class="data-visualization">
+                        <h3 class="custom-color">Data Visualization</h3>
+                        <div class="chart-container">
+                            <div id="chart1" class="chart"></div>
+                            <div id="chart2" class="chart"></div>
+                        </div>
+                    </div>-->
+            
+                    <div class="regional-information pl mbot">
+                        <h3 class="custom-color">Regional Information</h3>
+                        <div class="region-control mxstop">
+                            <label for="region-select">Select Region:</label>
+                            <select id="region-select">
+                                <option value="India">India</option>
+                                <!--<option value="region2">Region 2</option>
+                                <option value="region2">Region 2</option>-->
+                            </select>
+                        </div>
+                        <div class="card" id="regional-data">
+                            <h4 class="center custom-color fw-normal msbot">COVID-19 Cases in India</h4>
+                            <div class="region-data">
+                                <div class="total">
+                                    <p>Total Cases</p>
+                                    <p id="tot"></p>
+                                </div>
+                                <div  class="active">
+                                    <p>Active</p>
+                                    <p id="act"></p>
+                                </div>
+                                <div  class="recovered">
+                                    <p>Discharged</p>
+                                    <p id="dis"></p>
+                                </div>
+                                <div  class="death">
+                                    <p>Death</p>
+                                    <p id="det"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            
+                    <div class="educational-content pl">
+                        <h3 class="custom-color">COVID-19 Education</h3>
+                        <div class="education card ">
+                            <p>Learn more about COVID-19 prevention, symptoms, and stay informed to protect yourself and others.</p>
+                        </div>
+                        
+                    </div>
+            
+                    <div class="resources pl">
+                        <h3 class="custom-color">Community Resources</h3>
+                        <ul class="card ">
+                            <li><a href="https://aarogyasetu.gov.in/">AAROGYA SETU</a></li>
+                            <li><a href="who-link">World Health Organization (WHO)</a></li>
+                            <!-- Add more links as needed -->
+                        </ul>
+                    </div>
+                </section>
+            </div>
             <div class="consult-doctor mxltop ">
                 <h2 class="center custom-color fw-normal">CONSULT OUR DOCTORS</h2>
                 <div class="consult-doctor-wrapper mltop">
@@ -384,9 +446,7 @@
         </div>
     </footer>
     <script src="script.js"></script>
-    <script>
-       
-    </script>
+    <script src="data.js"></script>
         
         
         

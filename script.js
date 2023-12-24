@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     const prevent=document.getElementById('prevent');
     const symptoms=document.getElementById('symptoms');
     const precaution=document.getElementById('precaution');
-    const services=document.getElementById('services');
+    const data=document.getElementById('data');
     const contact=document.getElementById('contact');
 
 
@@ -26,6 +26,10 @@ document.addEventListener('DOMContentLoaded',()=>{
     const gocontact=document.querySelector('.consult-doctor');
     contact.addEventListener('click',()=>{
         gocontact.scrollIntoView({ behavior: 'smooth' });
+    });
+    const godata=document.querySelector('.covid-data');
+    data.addEventListener('click',()=>{
+        godata.scrollIntoView({ behavior: 'smooth' });
     });
 
 /*background-color: rgb(81, 187, 164);
