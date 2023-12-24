@@ -270,14 +270,11 @@
                         <h3 class="custom-color">Regional Information</h3>
                         <div class="region-control mxstop">
                             <label for="region-select">Select Region:</label>
-                            <select id="region-select">
-                                <option value="India">India</option>
-                                <!--<option value="region2">Region 2</option>
-                                <option value="region2">Region 2</option>-->
-                            </select>
+                            <input id="country-input" type="text" placeholder="Enter the country">
+                            <button class="country-btn-submit">Go</button>
                         </div>
                         <div id="regional-data">
-                            <h4 class="center custom-color fw-normal mtop msbot">COVID-19 Cases in India</h4>
+                            <h4 class="center custom-color fw-normal mtop msbot">COVID-19 Cases in <p id="populate-country">India</p></h4>
                             <div class="region-data">
                                 <div class="total">
                                     <p>Total Cases</p>

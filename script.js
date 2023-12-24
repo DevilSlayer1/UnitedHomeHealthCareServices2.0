@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     const precaution=document.getElementById('precaution');
     const data=document.getElementById('data');
     const contact=document.getElementById('contact');
-
+    
 
     const gohome=document.querySelector('.navigation-bar');
     home.addEventListener('click',()=>{
@@ -51,4 +51,5 @@ document.addEventListener('DOMContentLoaded',()=>{
         ul.style.right='-200px';
     })
     
+
 })
