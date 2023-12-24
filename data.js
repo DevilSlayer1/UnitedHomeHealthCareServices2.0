@@ -9,10 +9,10 @@ document.addEventListener('DOMContentLoaded',()=>{
         const response =await fetch(apiurl);
         let data = await response.json();
         console.log(data);
-        active.innerHTML=data.total.todayActive;
-        total.innerHTML=data.total.cases;
-        discharged.innerHTML=data.total.recovered;
-        death.innerHTML=data.total.deaths
+        active.innerHTML=data.total.todayActive.toLocaleString();
+        total.innerHTML=data.total.cases.toLocaleString();
+        discharged.innerHTML=data.total.recovered.toLocaleString();
+        death.innerHTML=data.total.deaths.toLocaleString();
     }
     getdatacovid();    
 
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 
     /*Other country*/
     const pop=document.getElementById("populate-country");
-    const Go=document.querySelector('.country-btn-submit');
+    const Go=document.querySelector('.country-btn');
     Go.addEventListener('click',()=>{
         const country=document.getElementById('country-input');
         let countryinputted=country.value;
@@ -38,33 +38,34 @@ document.addEventListener('DOMContentLoaded',()=>{
                 const response =await fetch(apiurl);
                 let data = await response.json();
                 console.log(data);
-                active.innerHTML=data.total.todayActive;
-                total.innerHTML=data.total.cases;
-                discharged.innerHTML=data.total.recovered;
-                death.innerHTML=data.total.deaths
+                active.innerHTML=data.total.todayActive.toLocaleString();
+                total.innerHTML=data.total.cases.toLocaleString();
+                discharged.innerHTML=data.total.recovered.toLocaleString();
+                death.innerHTML=data.total.deaths.toLocaleString();
             }
             getdatacovid(); 
         }
-        else{
+        else
+        {
             
-            pop.innerHTML=countryinputted;
-            const apiurl=`https://disease.sh/v3/covid-19/countries/${countryinputted}`;
-            const active=document.getElementById('act');
-            const total=document.getElementById('tot');
-            const discharged=document.getElementById('dis');
-            const death=document.getElementById('det');
-            async function getotherdatacovid()
-            {
-                const response =await fetch(apiurl);
-                let data = await response.json();
-                console.log(data);
-                active.innerHTML=data.active;
-                total.innerHTML=data.cases;
-                discharged.innerHTML=data.recovered;
-                death.innerHTML=data.deaths
-            }
-            getotherdatacovid();
+                pop.innerHTML=countryinputted;
+                const apiurl=`https://disease.sh/v3/covid-19/countries/${countryinputted}`;
+                const active=document.getElementById('act');
+                const total=document.getElementById('tot');
+                const discharged=document.getElementById('dis');
+                const death=document.getElementById('det');
+                async function getotherdatacovid()
+                {
+                    const response =await fetch(apiurl);
+                    let data = await response.json();
+                    console.log(data);
+                    active.innerHTML=data.active.toLocaleString();
+                    total.innerHTML=data.cases.toLocaleString();
+                    discharged.innerHTML=data.recovered.toLocaleString();
+                    death.innerHTML=data.deaths.toLocaleString();
+                }
+                getotherdatacovid();
         }
           
-    })
-})
+    });
+});
