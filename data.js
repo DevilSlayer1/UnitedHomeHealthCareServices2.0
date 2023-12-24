@@ -47,22 +47,34 @@ document.addEventListener('DOMContentLoaded',()=>{
         }
         else
         {
-            
                 pop.innerHTML=countryinputted;
                 const apiurl=`https://disease.sh/v3/covid-19/countries/${countryinputted}`;
                 const active=document.getElementById('act');
                 const total=document.getElementById('tot');
                 const discharged=document.getElementById('dis');
                 const death=document.getElementById('det');
+                const error=document.getElementById('error');
                 async function getotherdatacovid()
                 {
                     const response =await fetch(apiurl);
                     let data = await response.json();
                     console.log(data);
-                    active.innerHTML=data.active.toLocaleString();
-                    total.innerHTML=data.cases.toLocaleString();
-                    discharged.innerHTML=data.recovered.toLocaleString();
-                    death.innerHTML=data.deaths.toLocaleString();
+                    if(response.ok)
+                    {
+                        active.innerHTML=data.active.toLocaleString();
+                        total.innerHTML=data.cases.toLocaleString();
+                        discharged.innerHTML=data.recovered.toLocaleString();
+                        death.innerHTML=data.deaths.toLocaleString();
+                        
+                    }
+                    else{
+                        error.innerHTML=`No country named "${countryinputted}" !`;
+                        active.innerHTML="N/A";
+                        total.innerHTML="N/A";
+                        discharged.innerHTML="N/A";
+                        death.innerHTML="N/A";
+                    }
+                    
                 }
                 getotherdatacovid();
         }
