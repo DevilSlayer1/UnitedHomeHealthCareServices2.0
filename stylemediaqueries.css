@@ -218,6 +218,7 @@
         align-items: flex-start;
         flex-direction: column;
         margin: 0px;
+        overflow-y: auto;
     }
     .navbar ul li{
         margin: 10px;
@@ -264,7 +265,7 @@
         border-radius: 5px;
         cursor: pointer;
     }
-    #services:hover{
+    #data:hover{
         background-color: white;
         color: rgb(81, 187, 164);
         border-radius: 5px;
@@ -275,6 +276,60 @@
         color: rgb(81, 187, 164);
         border-radius: 5px;
         cursor: pointer;
+    }
+    .region-data{
+        border-radius: 5px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        align-items: center;
+        justify-content: space-around;
+        
+    }
+    .total{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #de647d;
+        height: 12rem;
+        width: 12rem;
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+    .active{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #f02a2a;
+        height: 12rem;
+        width: 12rem;
+         border-radius: 10px;
+        margin-bottom: 15px;
+    }
+    .recovered{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #22927c;
+        height: 12rem;
+        width: 12rem;
+         border-radius: 10px;
+        margin-bottom: 15px;
+    }
+    .death{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #202125;
+        height: 12rem;
+        width: 12rem;
+         border-radius: 10px;
+        margin-bottom: 15px;
     }
 }
 @media only screen and (min-width: 600px) and (max-width: 1000px) {
@@ -532,7 +587,7 @@
         border-radius: 5px;
         cursor: pointer;
     }
-    #services:hover{
+    #data:hover{
         background-color: white;
         color: rgb(81, 187, 164);
         border-radius: 5px;
@@ -543,6 +598,60 @@
         color: rgb(81, 187, 164);
         border-radius: 5px;
         cursor: pointer;
+    }
+    .region-data{
+        border-radius: 5px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        align-items: center;
+        justify-content: space-around;
+        
+    }
+    .total{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #de647d;
+        height: 12rem;
+        width: 12rem;
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+    .active{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #f02a2a;
+        height: 12rem;
+        width: 12rem;
+         border-radius: 10px;
+        margin-bottom: 15px;
+    }
+    .recovered{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #22927c;
+        height: 12rem;
+        width: 12rem;
+         border-radius: 10px;
+        margin-bottom: 15px;
+    }
+    .death{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #202125;
+        height: 12rem;
+        width: 12rem;
+         border-radius: 10px;
+        margin-bottom: 15px;
     }
 }
 
