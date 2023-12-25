@@ -17,8 +17,23 @@ document.addEventListener('DOMContentLoaded',()=>{
     }
     getdatacovid();    
 
+    /*Global data*/
+    const apiurl2="https://disease.sh/v3/covid-19/all";
+    const activeglobal=document.getElementById('act-glo');
+    const totalglobal=document.getElementById('tot-glo');
+    const dischargedglobal=document.getElementById('dis-glo');
+    const deathglobal=document.getElementById('det-glo');
 
-
+    async function globalcoviddata(){
+        const responseglobal=await fetch(apiurl2);
+        let dataglobal=await responseglobal.json();
+        console.log(dataglobal);
+        activeglobal.innerHTML=dataglobal.active.toLocaleString();
+        totalglobal.innerHTML=dataglobal.cases.toLocaleString();
+        dischargedglobal.innerHTML=dataglobal.recovered.toLocaleString();
+        deathglobal.innerHTML=dataglobal.deaths.toLocaleString();
+    }
+    globalcoviddata();
     /*Other country*/
     const pop=document.getElementById("populate-country");
     const Go=document.querySelector('.country-btn');
