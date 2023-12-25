@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
     getNewsArticle();*/
     async function getNewsArticle() {
         for (let i = 0; i < 10; i++) {
-            const header = document.getElementById(`article-header`+`${i}`);
+            const header = document.getElementById(`article-header${i}`);
             console.log(header);
             const img = document.getElementById(`img${i}`);
             const summary = document.getElementById(`article-summary${i}`);
@@ -69,10 +69,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }
     
             // Add a delay between API requests (e.g., 1 second)
-            await new Promise(resolve => setTimeout(resolve, 10));
+            await new Promise(resolve => setTimeout(resolve, 1000));
         }
     }
     
     getNewsArticle();
-    
 });

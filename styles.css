@@ -449,8 +449,6 @@ header{
     border: royalblue 2px solid;
     padding: 8px;
 }
-.country-submit-btn{
-}
 .country-submit-btn .country-btn{
     margin-left: 1rem;
     color: white;
@@ -488,6 +486,7 @@ header{
 
 /*Global covid data*/
 .global-control{
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
