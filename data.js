@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         const response =await fetch(apiurl);
         let data = await response.json();
         console.log(data);
-        active.innerHTML=data.total.todayActive.toLocaleString();
+        active.innerHTML=data.total.active.toLocaleString();
         total.innerHTML=data.total.cases.toLocaleString();
         discharged.innerHTML=data.total.recovered.toLocaleString();
         death.innerHTML=data.total.deaths.toLocaleString();
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded',()=>{
                 const response =await fetch(apiurl);
                 let data = await response.json();
                 console.log(data);
-                active.innerHTML=data.total.todayActive.toLocaleString();
+                active.innerHTML=data.total.active.toLocaleString();
                 total.innerHTML=data.total.cases.toLocaleString();
                 discharged.innerHTML=data.total.recovered.toLocaleString();
                 death.innerHTML=data.total.deaths.toLocaleString();
@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         else if(countryinputted=='')
         {
             error.innerHTML=`No country entered!`;
-            active.innerHTML=data.total.todayActive.toLocaleString();
+            active.innerHTML=data.total.active.toLocaleString();
             total.innerHTML=data.total.cases.toLocaleString();
             discharged.innerHTML=data.total.recovered.toLocaleString();
             death.innerHTML=data.total.deaths.toLocaleString();

@@ -102,8 +102,6 @@ h2{
     background-color: white;
     border-radius: 5px;
     transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
-    /*padding: 0px 0px 0px 50px;*/
-    
 }
 
 body{
@@ -159,6 +157,12 @@ header{
     border-radius: 5px;
     cursor: pointer;
 }
+#news:hover{
+    background-color: rgb(81, 187, 164);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    }
 .highlight{
     background-color: rgb(81, 187, 164);
     color: white;
@@ -191,7 +195,7 @@ header{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 100px 0px;
+    padding: 105px 0px;
 }
 .prevention-methods{
     display: flex;
@@ -214,7 +218,7 @@ header{
 
 /*Symptoms section*/
 .symptoms{
-    padding: 95px 0px;
+    padding: 100px 0px;
 }
 .symptom-wrapper{
     display: flex;
@@ -255,7 +259,7 @@ header{
 /*Prevent section*/
 .prevent{
     overflow: auto;
-    padding: 95px 0px;
+    padding: 100x 0px;
 }
 .prevent-wrapper{
     display: flex;
@@ -300,7 +304,7 @@ header{
     align-items: center;
 }
 .consult-doctor{
-    padding: 95px 0px;
+    padding: 100px 0px;
 }
 .consult-doctor-wrapper{
     display: flex;
@@ -312,7 +316,7 @@ header{
 /*Covid19 data section*/
 
 .covid-data{
-    padding: 95px 0px;
+    padding: 100px 0px;
 }
 .services-container {
     display: flex;
@@ -493,8 +497,8 @@ header{
 }
 .global-control .global{
     display: flex;
-    justify-content: space-between;
-    width: 70%;
+    justify-content: space-around;
+    width: 80%;
 }
 @media screen and (max-width: 768px) {
     .card {
@@ -567,7 +571,6 @@ header{
 
 .news-card {
     width: 500px;
-    
     background-color: #fff;
     margin: 10px;
     border-radius: 10px;
@@ -591,6 +594,7 @@ header{
 
 .news-content {
     padding: 15px;
+    
 }
 
 .news-content h2 {
@@ -622,7 +626,9 @@ header{
     text-decoration: none;
     border-bottom: 2px solid #004080;
 }
-
+.covid-news{
+    padding: 100px 0px;
+}
 /* Footer */
 
 footer {

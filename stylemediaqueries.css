@@ -87,8 +87,8 @@
         color: #141a75;
     }
     .symptoms h4{
-        text-align: left;
-        margin-left: 70px;
+        text-align: center;
+        margin-left: 10px;
     }
     .contact-btn{
         display: flex;
@@ -277,6 +277,12 @@
         border-radius: 5px;
         cursor: pointer;
     }
+    #news:hover{
+        background-color: white;
+        color: rgb(81, 187, 164);
+        border-radius: 5px;
+        cursor: pointer;
+    }
     .region-data{
         border-radius: 5px;
         color: white;
@@ -458,7 +464,6 @@
         display: flex;
         justify-content: space-evenly;
         flex-direction: column;
-        align-items: center;
         width: 100%;
     }
     .todo{
@@ -605,6 +610,12 @@
         cursor: pointer;
     }
     #contact:hover{
+        background-color: white;
+        color: rgb(81, 187, 164);
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    #news:hover{
         background-color: white;
         color: rgb(81, 187, 164);
         border-radius: 5px;

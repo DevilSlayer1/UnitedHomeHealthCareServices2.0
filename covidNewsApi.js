@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     for (let i = 0; i < 20; i++) {
                         if(data.articles[i].urlToImage!=null)
                         {
-                            let newnews = `<article class="news-card">
+                            let newnews = `<article class="news-card" >
                             <img id="img${i}" src="${data.articles[i].urlToImage}" alt="Health News Image">
-                            <div class="news-content">
+                            <div class="news-content" >
                                 <h2 id="article-header${i}">${data.articles[i].title}</h2>
                                 <p class="article-meta">Published on <span id="date${i}">${data.articles[i].publishedAt}</span> | By: <span id="author${i}">${data.articles[i].author}</span></p>
                                 <p id="article-summary${i}" class="article-summary">${data.articles[i].description}</p>
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         }
                         
                     }
-                    addnews.insertAdjacentElement('beforeend','<p class="red">Looks like you have reached the end!</p>')
+                   
                 } else {
                     console.error("News API request failed or no articles found.");
                 }

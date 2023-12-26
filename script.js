@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     const precaution=document.getElementById('precaution');
     const data=document.getElementById('data');
     const contact=document.getElementById('contact');
-    
+    const news=document.getElementById('news');
 
     const gohome=document.querySelector('.navigation-bar');
     home.addEventListener('click',()=>{
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         gosymptoms.scrollIntoView({ behavior: 'smooth' });
     });
     const goprecaution=document.querySelector('.prevent');
-   precaution.addEventListener('click',()=>{
+    precaution.addEventListener('click',()=>{
         goprecaution.scrollIntoView({ behavior: 'smooth' });
     });
     const gocontact=document.querySelector('.consult-doctor');
@@ -31,7 +31,10 @@ document.addEventListener('DOMContentLoaded',()=>{
     data.addEventListener('click',()=>{
         godata.scrollIntoView({ behavior: 'smooth' });
     });
-
+    const gonews=document.querySelector('.covid-news');
+    news.addEventListener('click',()=>{
+        gonews.scrollIntoView({behavior: 'smooth'});
+    });
 /*background-color: rgb(81, 187, 164);
     color: white;
     border-radius: 5px;*/
