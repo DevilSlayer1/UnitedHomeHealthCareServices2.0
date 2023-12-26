@@ -1,7 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = "a43095fc9fbb40e791dc3b251a4d3449";
-    const apiUrl = `https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=${apiKey}`;
-    
+    //const apiKey = "a43095fc9fbb40e791dc3b251a4d3449";
+    //const apiUrl = `https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=${apiKey}`;
+    const apiUrl=`news.json`;
+    console.log(apiUrl);
     /*async function getNewsArticle() {
         try {
             const header = document.getElementById('article-header1');
@@ -46,12 +47,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     headers: {
                         'Upgrade': 'HTTP/2.0'  // Adjust this based on the API requirements
                     }
+                    
                 });
                 
                 if (response.status === 200) {
                     let data = await response.json();
     
-                    if (data.status === "ok" && data.articles.length > i) {
+                    if (data.status === "ok" && data.articles.length > i && img.src!=null) {
                         header.innerHTML = data.articles[i].title;
                         img.src = data.articles[i].urlToImage;
                         summary.innerHTML = data.articles[i].description;
@@ -69,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
     
             // Add a delay between API requests (e.g., 1 second)
-            await new Promise(resolve => setTimeout(resolve, 1000));
+            await new Promise(resolve => setTimeout(resolve, 1));
         }
     }
     
