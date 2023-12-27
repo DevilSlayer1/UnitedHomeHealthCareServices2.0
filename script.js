@@ -6,13 +6,17 @@ document.addEventListener('DOMContentLoaded',()=>{
     const data=document.getElementById('data');
     const contact=document.getElementById('contact');
     const news=document.getElementById('news');
-
+    const howpreventbtn=document.getElementsByClassName('btn')[0];
+    const contactbtn=document.getElementsByClassName('btn')[1];
     const gohome=document.querySelector('.navigation-bar');
     home.addEventListener('click',()=>{
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
     const goprevent=document.querySelector('.prevention-section');
     prevent.addEventListener('click',()=>{
+        goprevent.scrollIntoView({ behavior: 'smooth' });
+    });
+    howpreventbtn.addEventListener('click',()=>{
         goprevent.scrollIntoView({ behavior: 'smooth' });
     });
     const gosymptoms=document.querySelector('.symptoms');
@@ -25,6 +29,9 @@ document.addEventListener('DOMContentLoaded',()=>{
     });
     const gocontact=document.querySelector('.consult-doctor');
     contact.addEventListener('click',()=>{
+        gocontact.scrollIntoView({ behavior: 'smooth' });
+    });
+    contactbtn.addEventListener('click',()=>{
         gocontact.scrollIntoView({ behavior: 'smooth' });
     });
     const godata=document.querySelector('.covid-data');

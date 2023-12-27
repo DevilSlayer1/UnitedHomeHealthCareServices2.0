@@ -600,6 +600,7 @@ header{
 .news-content h2 {
     color: #333;
     margin-bottom: 10px;
+    font-size: 25px;
 }
 
 .article-meta {
