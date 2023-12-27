@@ -11,7 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 let data = await response.json();
     
                 if (data.status === "ok" && data.articles.length > 0) {
-                    for (let i = 0; i < 20; i++) {
+                    console.log(data.articles.length);
+                    for (let i = 0; i < data.articles.length; i++) {
                         if(data.articles[i].urlToImage!=null)
                         {
                             let newnews = `<article class="news-card" >

@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 67,
+    "totalResults": 282,
     "articles": [
         {
             "source": {
@@ -122,6 +122,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Onmanorama.com"
+            },
+            "author": "Onmanorama Staff",
+            "title": "Smelling women’s tears lowers aggression in men, says study | Onmanorama - Onmanorama",
+            "description": "When given the opportunity, the men could get revenge on the perceived cheaters by causing them to lose money, though they themselves gained nothing.",
+            "url": "https://www.onmanorama.com/lifestyle/health/2023/12/25/womens-tears-smelling-aggression-behaviour-men-study.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/12/25/women-tears.jpg",
+            "publishedAt": "2023-12-25T07:49:28Z",
+            "content": "Researchers at the Weizmann Institute of Science in Israel have found that smelling women's tears reduces brain activity linked to aggression in men, leading to a decrease in aggressive behaviour. Th… [+1768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "WION"
             },
             "author": "Heena Sharma",
@@ -226,6 +239,19 @@
         {
             "source": {
                 "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "DNA India"
             },
             "author": "Ritik Raj",
@@ -239,28 +265,524 @@
         {
             "source": {
                 "id": null,
-                "name": "Herzindagi.com"
+                "name": "Indiaspend.com"
             },
-            "author": "Krati Purwar",
-            "title": "Guava: Benefits, Side-Effects Of The Fruit; Expert Shares 5 Ways To Add It To Your Diet - HerZindagi English",
-            "description": "Do you know that guavas contain more vitamin C than oranges? They are good for your immunity and prevent constipation. However, they can also be bad for someone with diabetes and kidney-related issues. Read to know how you can add this fruit to your diet.",
-            "url": "https://www.herzindagi.com/diet-nutrition/guava-benefits-side-effects-ways-to-add-to-diet-article-256720",
-            "urlToImage": "https://images.herzindagi.info/image/2023/Dec/what-are-side-effects-of-guava.jpg",
-            "publishedAt": "2023-12-25T05:30:22Z",
-            "content": "Do you know that guavas contain more vitamin C than oranges? They are good for your immunity and prevent constipation. However, they can also be bad for someone with diabetes and kidney-related issue… [+4305 chars]"
+            "author": "Nushaiba Iqbal",
+            "title": "In 2023, Lifestyle Diseases, TB & Climate Change Posed Challenges To Indians’ Health - IndiaSpend",
+            "description": "Routine immunisation, infectious diseases and noncommunicable diseases took centerstage as Covid-19 is no longer a “global health emergency”",
+            "url": "https://www.indiaspend.com/health/in-2023-lifestyle-diseases-tb-climate-change-posed-challenges-to-indians-health-886713",
+            "urlToImage": "https://www.indiaspend.com/h-upload/2023/12/22/1144803-updated-nushaiba-year-ender-2023-1500.jpg",
+            "publishedAt": "2023-12-26T00:30:29Z",
+            "content": "Mumbai: The year 2023 saw the World Health Organization (WHO)announce\r\n the end of the Covid-19 pandemic, with WHO president Tedros Adhanom Ghebreyessus declaring that the virus was no longer a globa… [+8022 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Timesofindia.com"
+                "name": "YouTube"
             },
-            "author": "Kritika Pushkarna",
-            "title": "10 reasons why pecans should be a part of your daily diet - Recipes",
-            "description": "With a buttery taste and crunchy texture, pecans aren't just a delightful addition to your favourite recipes, but also offer a lot of health benefits that make them a compelling choice for daily consumption. Here’s why you must have them daily.",
-            "url": "https://recipes.timesofindia.com/web-stories/10-reasons-why-pecans-should-be-a-part-of-your-daily-diet/photostory/106261037.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-106261060,imgsize-47024,width-900,height-1200,resizemode-6/106261060.jpg",
-            "publishedAt": "2023-12-25T05:30:00Z",
-            "content": "Pecans are a nutrient powerhouse, containing essential vitamins and minerals such as vitamin E, potassium, magnesium, and zinc, contributing to overall health and vitality."
-        }
+            "author": null,
+            "title": "NHS: How new technology is helping detect cancer sooner - Sky News",
+            "description": "Calderdale and Huddersfield NHS Foundation Trust in West Yorkshire is using new technology and AI - including a surgical robot, to achieve its national targe...",
+            "url": "https://www.youtube.com/watch?v=P02Cie2wisg",
+            "urlToImage": "https://i.ytimg.com/vi/P02Cie2wisg/maxresdefault.jpg",
+            "publishedAt": "2023-12-25T21:24:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thehealthsite.com"
+            },
+            "author": "Editorial Team",
+            "title": "Christmas Miracle: 10-Year-Old Iraqi Girl’s Triumph Over Ovarian Cancer | TheHealthSite.com - TheHealthSite",
+            "description": "In keeping with the Christmas spirit this is a heart-warming tale of courage and hope and the ultimate triumph of a 10 year old girl suffering from ovarian cancer. TheHealthSite.com",
+            "url": "https://www.thehealthsite.com/diseases-conditions/christmas-miracle-10-year-old-iraqi-girls-triumph-over-ovarian-cancer-1048060/",
+            "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2023/12/zainab-jpg.jpg",
+            "publishedAt": "2023-12-25T19:44:00Z",
+            "content": "VERIFIEDThe patient, along with her parents, visited Sanar International Hospitals in India for further treatment.\r\nIn keeping with the Christmas spirit, this is a heart-warming tale of courage and h… [+3605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailypioneer.com"
+            },
+            "author": "Daily Pioneer",
+            "title": "Ingestible vibrating capsule taken before meal could cure obesity: MIT - Daily Pioneer",
+            "description": "If nonmedical interventions such as diet exercise or existing medical interventions including gastric bypass surgery, as well as gastric balloons are not helping you to shed those extra kilos then fret not.\n\nMIT engineers have now come up with a new way to ta…",
+            "url": "https://www.dailypioneer.com/2023/india/ingestible-vibrating-capsule-taken-before-meal-could-cure-obesity--mit.html",
+            "urlToImage": "https://www.dailypioneer.com/images/logo.jpg",
+            "publishedAt": "2023-12-25T19:08:59Z",
+            "content": "If nonmedical interventions such as diet exercise or existing medical interventions including gastric bypass surgery, as well as gastric balloons are not helping you to shed those extra kilos then fr… [+2098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netmeds.com"
+            },
+            "author": "Preeti Sharma",
+            "title": "Maqui Berry: Health Benefits Of This Exotic Purple Fruit. Simple Ways To Add It To Your Diet - Netmeds.com",
+            "description": "Maqui powder benefits and fruit extracts, where is it found, how this superfruit can cure illnesses, culinary uses with easy tea recipe are given in the blog.",
+            "url": "https://www.netmeds.com/health-library/post/maqui-berry-health-benefits-of-this-exotic-purple-fruit-simple-ways-to-add-it-to-your-diet",
+            "urlToImage": "https://www.netmeds.com/images/cms/magefan_blog/nmslite/1703247617_maqui-berry-superfoods_480x180.jpg",
+            "publishedAt": "2023-12-25T18:36:32Z",
+            "content": "From the Southern parts of America particularly Chile and Argentina come a tiny purple berry that has been captivating the hearts of both locals and global health enthusiasts. The Maqui berry Botanic… [+4248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netmeds.com"
+            },
+            "author": "Kalyani Krishna",
+            "title": "Holiday Feasting: How To Avoid Sudden Blood Sugar Spikes? - Netmeds.com",
+            "description": "Why are glucose spikes harmful, how to avoid blood sugar spikes after meals, causes of sudden rise during holiday season feasting are stated in the feature.",
+            "url": "https://www.netmeds.com/health-library/post/holiday-feasting-how-to-avoid-sudden-blood-sugar-spikes",
+            "urlToImage": "https://www.netmeds.com/images/cms/magefan_blog/nmslite/1703227075_Sudden-sugar-spikes_480x180.jpg",
+            "publishedAt": "2023-12-25T18:36:32Z",
+            "content": "The holiday season often brings a delightful array of feasts and treats, tempting everyone to indulge in the festive spirit. For individuals managing diabetes, this season can pose a significant chal… [+2945 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Jaiphal benefits: 5 solid reasons you should include nutmeg in your diet - IndiaTimes",
+            "description": "Nutmeg is not just a beloved kitchen spice to a potential source of pain relief and anti-inflammatory benefits is an exciting exploration in the realm of natural remedies.",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/jaiphal-benefits-5-solid-reasons-you-should-include-nutmeg-in-your-diet/photostory/106100967.cms",
+            "urlToImage": "https://static.toiimg.com/photo/106100983.cms",
+            "publishedAt": "2023-12-25T18:30:00Z",
+            "content": "Nutmeg, the aromatic spice renowned for its rich, warm flavor, extends beyond culinary delight, unveiling a potential treasure trove of health benefits. Rooted in ancient traditions, nutmeg has evolv… [+299 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zee Business"
+            },
+            "author": null,
+            "title": "Aapki Khabar Aapka Fayda: Due to increasing cold, heart patients should take strict care, the risk may incr... - Zee Business",
+            "description": "Heart Attack: Heart patients should take strict care of themselves in the increasing cold, because the risk of heart attack increases even more due to cold. Hormone levels increase. There is less sweating and salt loss also reduces.",
+            "url": "https://www.zeebiz.com/india/video-gallery-aapki-khabar-aapka-fayda-due-to-increasing-cold-heart-patients-should-take-strict-care-the-risk-may-increase-269854",
+            "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2023/12/25/274111",
+            "publishedAt": "2023-12-25T17:45:02Z",
+            "content": "By accepting cookies, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Publictv.in"
+            },
+            "author": "admin",
+            "title": "Patients, attendents in hospitals ignore the need to mask up - Public TV English",
+            "description": "BENGALURU: Though Covid-19 cases are on the rise in the state, people still do not seem to have taken seriously the importance of wearing masks in public places, especially during hospital visits. The government has not made wearing of masks compulsory, but c…",
+            "url": "https://english.publictv.in/patients-attendents-in-hospitals-ignore-the-need-to-mask-up/",
+            "urlToImage": "https://i0.wp.com/english.publictv.in/wp-content/uploads/2023/12/FotoJet-5-5.jpg",
+            "publishedAt": "2023-12-25T17:41:33Z",
+            "content": "BENGALURU: Though Covid-19 cases are on the rise in the state, people still do not seem to have taken seriously the importance of wearing masks in public places, especially during hospital visits. Th… [+1747 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caribbeannationalweekly.com"
+            },
+            "author": "Joanne Clark",
+            "title": "Flu and COVID-19 cases expected to surge in the coming weeks - caribbeannationalweekly.com",
+            "description": "As the holiday season unfolds, U.S. health officials are sounding a warning about an impending surge in flu and COVID-19 infections.",
+            "url": "https://www.caribbeannationalweekly.com/health-fitness/flu-and-covid-19-cases-expected-to-surge-in-the-coming-weeks/",
+            "urlToImage": "https://www.caribbeannationalweekly.com/wp-content/uploads/2020/03/flu-oral-health.jpg",
+            "publishedAt": "2023-12-25T17:41:00Z",
+            "content": "As the holiday season unfolds, U.S. health officials are sounding a warning about an impending surge in flu and COVID-19 infections. \r\nThis surge is attributed to a combination of factors, including … [+2383 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "What is 'dopamine dating' and how to ace it at different stages of a relationship? - IndiaTimes",
+            "description": "In the ever-evolving landscape of modern relationships, the concept of dopamine dating has emerged as a novel approach to keeping the spark alive. Dopamine, often referred to as the feel-good neurotransmitter, plays a crucial role in the pleasure and reward s…",
+            "url": "https://timesofindia.indiatimes.com/life-style/relationships/love-sex/what-is-dopamine-dating-and-how-to-ace-it-at-different-stages-of-a-relationship/photostory/106268390.cms",
+            "urlToImage": "https://static.toiimg.com/photo/106268441.cms",
+            "publishedAt": "2023-12-25T17:30:00Z",
+            "content": "Every relationship encounters challenges, and adeptly navigating them necessitates a conscious effort to sustain dopamine-driven excitement. During tough times, focus on shared problem-solving and em… [+419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ajmc.com"
+            },
+            "author": "Brooke McCormick",
+            "title": "Patients With Breast Cancer, HIV More Likely to Experience Suboptimal Adjuvant Chemotherapy Delivery - AJMC.com Managed Markets Network",
+            "description": "The researchers noted the need for strategies to better support women living with HIV with breast cancer during toxic therapies to improve outcomes among this growing population.",
+            "url": "https://www.ajmc.com/view/patients-with-breast-cancer-hiv-more-likely-to-experience-suboptimal-adjuvant-chemotherapy-delivery",
+            "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/ajmc/c95db5ea5d480b6bad1eed4e3adbe7cb939839f5-5256x3508.jpg?fit=crop&auto=format",
+            "publishedAt": "2023-12-25T17:08:20Z",
+            "content": "Patients with breast cancer and comorbid HIV are more likely to experience suboptimal delivery of adjuvant chemotherapy than those with breast cancer without HIV, according to a study published in JA… [+5351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "happi.com"
+            },
+            "author": null,
+            "title": "Five Superfoods For Skin Health - Happi",
+            "description": "Here’s what on the menu, according to aesthetic doctors.",
+            "url": "https://www.happi.com/contents/view_breaking-news/2023-12-25/5-superfoods-for-skin-health/",
+            "urlToImage": "https://images.rodpub.com/images/295/358_main.jpg",
+            "publishedAt": "2023-12-25T17:06:25Z",
+            "content": "Copyright © 2023 Rodman Media. All rights reserved. Use of this constitutes acceptance of our privacy policy \r\n The material on this site may not be reproduced, distributed, transmitted, or otherwise… [+63 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cancernetwork.com"
+            },
+            "author": "Amy Tiersten, MD",
+            "title": "Toxicity After Chemo May be Avoided With Anastrozole Combo in Breast Cancer - Cancer Network",
+            "description": "It may be possible to use anastrozole plus palbociclib, trastuzumab, and pertuzumab in place of chemotherapy in the frontline setting for hormone receptor–positive, HER2-positive metastatic breast cancer, says Amy Tiersten, MD.",
+            "url": "https://www.cancernetwork.com/view/toxicity-after-chemo-may-be-avoided-with-anastrozole-combo-in-breast-cancer",
+            "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/0ce07e59fffedb080a6cad77284cf00f67b660ff-1200x670.jpg?fit=crop&auto=format",
+            "publishedAt": "2023-12-25T17:05:55Z",
+            "content": "Amy Tiersten, MD, spoke with CancerNetwork® during the 2023 San Antonio Breast Cancer Symposium (SABCS)about how a regimen consisting of anastrozole (Arimidex), palbociclib (Ibrance), trastuzumab (He… [+2128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Drugtopics.com"
+            },
+            "author": "Rosanna Sutherby, PharmD",
+            "title": "Fertility Treatments Equally Effective in Women With, Without PCOS - Drug Topics",
+            "description": "Women with PCOS were more likely to begin fertility treatment with ovulation induction compared to those without PCOS.",
+            "url": "https://www.drugtopics.com/view/fertility-treatments-equally-effective-in-women-with-without-pcos",
+            "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/drugtopics/5b1c2ac5e80966116bd791d85aa732ad64f7913c-1000x667.jpg?fit=crop&auto=format",
+            "publishedAt": "2023-12-25T17:03:59Z",
+            "content": "Polycystic ovary syndrome (PCOS) affects approximately 5 million females in the United States and is one of the most common causes of female infertility. Along with other complications, including dia… [+2747 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bnnbreaking.com"
+            },
+            "author": "Olalekan Adigun",
+            "title": "Malaria Prevention: WHO's Second Vaccine Approval - BNN Breaking",
+            "description": "As summer nears, the importance of malaria prevention in Sub-Saharan Africa is heightened. The WHO-approved R21 Matrix M vaccine presents a significant advancement in malaria prevention.",
+            "url": "https://bnnbreaking.com/breaking-news/health/the-fight-against-malaria-who-approves-second-vaccine-amid-rising-summer-risks/",
+            "urlToImage": "https://media.bnn.network/content/uploads/2023/12/malaria-prevention-20231225170301.jpg",
+            "publishedAt": "2023-12-25T17:03:00Z",
+            "content": "Sub-Saharan Africa is known for its high rates of malaria, a life-threatening disease transmitted by mosquitoes. This parasitic illness, caused by the Plasmodium parasite, claims approximately 400,00… [+2454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sportskeeda"
+            },
+            "author": "Divya Singh Rana",
+            "title": "7 best vitamins and supplements of 2023 for better skin health - Sportskeeda",
+            "description": "Beauty is always inside out, meaning one must pair the intake of supplements in addition to topical skincare. This combination heals and soothes the skin and improves skin health as well.",
+            "url": "https://www.sportskeeda.com/lifestyle/7-best-vitamins-supplements-2023-better-skin-health",
+            "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/4a905-17034832953998-1920.jpg",
+            "publishedAt": "2023-12-25T17:02:05Z",
+            "content": "Beauty is always inside out, meaning one must pair the intake of supplements in addition to topical skincare. This combination heals and soothes the skin and improves skin health as well.\r\nMost often… [+5462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bnnbreaking.com"
+            },
+            "author": "Mahnoor Jehangir",
+            "title": "The Paradox of Dietary Fiber: Balancing Health Benefits and Hidden Risks - BNN Breaking",
+            "description": "Excessive consumption of dietary fibers can lead to several health problems, including digestive issues, impaired nutrient absorption, and medication interference. Learn how to balance your fiber intake for optimal health.",
+            "url": "https://bnnbreaking.com/breaking-news/health/the-paradox-of-dietary-fiber-balancing-health-benefits-and-hidden-risks/",
+            "urlToImage": "https://media.bnn.network/content/uploads/2023/12/excessive-consumption-of-dietary-fibers-20231225165225.jpg",
+            "publishedAt": "2023-12-25T16:52:00Z",
+            "content": "Dietary fibers, an essential nutritional component, play a crucial role in overall health, aiding in digestion improvement and the prevention of chronic illnesses such as heart disease, type 2 diabet… [+1951 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Ever heard of popcorn lung? Know what it is and why it happens? - IndiaTimes",
+            "description": "​Popcorn lung, formally known as bronchiolitis obliterans or obliterative bronchiolitis, is a serious and irreversible lung condition. It gained public attention due to a cluster of cases among workers at a microwave popcorn plant in the early 2000s. The cond…",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/ever-heard-of-popcorn-lung-know-what-it-is-and-why-it-happens/photostory/106267139.cms",
+            "urlToImage": "https://static.toiimg.com/photo/106267165.cms",
+            "publishedAt": "2023-12-25T16:00:00Z",
+            "content": "The primary cause of popcorn lung is exposure to diacetyl. Diacetyl is a chemical used in the production of buttery flavorings, particularly in microwave popcorn, snack foods, and some e-cigarette li… [+665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vivaglammagazine.com"
+            },
+            "author": "",
+            "title": "Hormone-Balancing Nutrition: Diet Strategies for Hormonal Health - VIVA GLAM MAGAZINE™ - vivaglammagazine.com",
+            "description": "Are you struggling with your hormonal health? This can be such an overwhelming battle. No matter what the nature of your condition may be, having your hormones out of balance strains your body and your mind, too. Even though talking to a doctor and taking the…",
+            "url": "https://vivaglammagazine.com/hormone-balancing-nutrition-diet-strategies-for-hormonal-health/",
+            "urlToImage": "https://s3.us-west-1.amazonaws.com/www.vivaglammagazine.com/wp-content/uploads/2023/10/vegetables-veggies-vegan-avocado-food-1000x600.jpg",
+            "publishedAt": "2023-12-25T16:00:00Z",
+            "content": "Are you struggling with your hormonal health? This can be such an overwhelming battle. No matter what the nature of your condition may be, having your hormones out of balance strains your body and yo… [+2780 chars]"
+        },
+        {
+                    "source": {
+                        "id": null,
+                        "name": "The Indian Express"
+                    },
+                    "author": "The Indian Express",
+                    "title": "Nutrition alert: Here’s what a 100-gram serving of moringa leaves contains - The Indian Express",
+                    "description": null,
+                    "url": "https://indianexpress.com/article/lifestyle/food-wine/nutrition-alert-moringa-leaves-9078697/",
+                    "urlToImage": null,
+                    "publishedAt": "2023-12-26T04:00:07Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Uniindia.com"
+                    },
+                    "author": "Uniindia News Service",
+                    "title": "Covid, flu surge in U.S. amid holidays, increasing health risks - United News of India",
+                    "description": "Los Angeles, Dec 26 (UNI) The United States has seen an uptick in flu and Covid19 cases amid holidays, and health experts are concerned about the increasing health risks brought by the simultaneous spread of respiratory illnesses.",
+                    "url": "http://www.uniindia.com/covid-flu-surge-in-u-s-amid-holidays-increasing-health-risks/world/news/3112159.html",
+                    "urlToImage": "https://www.uniindia.com/cms/gall_content/2023/12/2023_12$largeimg26_Dec_2023_095525180.jpg",
+                    "publishedAt": "2023-12-26T03:55:00Z",
+                    "content": "Los Angeles, Dec 26 (UNI) The United States has seen an uptick in flu and Covid19 cases amid holidays, and health experts are concerned about the increasing health risks brought by the simultaneous s… [+2398 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Timesofindia.com"
+                    },
+                    "author": "Kritika Pushkarna",
+                    "title": "10 superfoods that can help prevent clogged arteries - Recipes",
+                    "description": "Often stemming from poor dietary choices, clogged arteries can significantly impact heart health. But, nature has a cure for everything. Here is a list of superfoods that are loaded with nutrients, which can further help prevent clogged arteries.",
+                    "url": "https://recipes.timesofindia.com/web-stories/10-superfoods-that-can-help-prevent-clogged-arteries/photostory/106264466.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-106264476,imgsize-47230,width-900,height-1200,resizemode-6/106264476.jpg",
+                    "publishedAt": "2023-12-26T03:30:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India TV News"
+                    },
+                    "author": "Written by Rahul Pratyush",
+                    "title": "Superfood Turmeric: Know THESE 7 benefits of Haldi - India TV News",
+                    "description": "Golden spice turmeric, revered in India as 'haldi,' boasts a vibrant history and culinary magic. Beyond its warming flavour, it paints dishes with sunshine hues and whispers tales of Ayurvedic wisdom. Embrace this golden wonder and let its essence illuminate …",
+                    "url": "https://www.indiatvnews.com/health/superfood-turmeric-know-these-7-benefits-of-haldi-2023-12-26-908944",
+                    "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/12/haldi-1703558148.jpg",
+                    "publishedAt": "2023-12-26T02:39:16Z",
+                    "content": "Golden as sunshine and warming like a cosy hug, turmeric, also known as haldi, has been revered for centuries in India for its vibrant colour and potent health benefits. This humble spice, now gracin… [+2324 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": null,
+                    "title": "Wellness trends that made headlines in 2023 - Mint Lounge",
+                    "description": "From silent walking to the emergence of menopause retreats and ‘ashwagandha’ becoming a hot topic, here’s a wrap of 2023’s wellness trends",
+                    "url": "https://lifestyle.livemint.com/health/wellness/wellness-trends-that-made-headlines-in-2023-111703516211216.html",
+                    "urlToImage": "https://images.livemint.com/img/2023/12/25/1140x641/pexels-noelle-otto-906106_1703518716391_1703518730533.jpg",
+                    "publishedAt": "2023-12-26T02:35:21Z",
+                    "content": "2023 was the year where the drug Ozempic dominated conversations and had you wondering if your favourite celebrity whod suddenly lost tons of weight was on it. It was also the year where the long-win… [+6777 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "How to create collage in Google photos - Times of India",
+                    "description": "Google Photos allows you to effortlessly transform your favorite photos into stunning collages by selecting up to 6 photos on mobile or up to 9 photos",
+                    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-to-create-collage-in-google-photos/articleshow/106277526.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-106277516,width-1070,height-580,imgsize-57548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-12-26T02:15:46Z",
+                    "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "Shimona Kanwar",
+                    "title": "Cases of mumps hit new high in city after 4 years - Times of India",
+                    "description": "Chandigarh has witnessed a rise in mumps cases this year, with 106 cases reported, the highest in the past five years. The Indian Academy of Paediatri",
+                    "url": "https://timesofindia.indiatimes.com/city/chandigarh/cases-of-mumps-hit-new-high-in-city-after-4-years/articleshow/106277103.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-12-26T01:36:46Z",
+                    "content": "Vitamin D rich dry fruits you must consume in winter"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "ET HealthWorld",
+                    "title": "The Urgent Need for Innovative Mosquito Control Methods: Addressing the Escalating Challenge in India - ETHealthWorld",
+                    "description": "It is necessary to move away from the traditional concentration on surveillance and towards a dual focus on disease prevention and control. Redirecting resources to undertake proactive actions that target the life cycle and breeding sites of disease-causing m…",
+                    "url": "https://health.economictimes.indiatimes.com/news/industry/the-urgent-need-for-innovative-mosquito-control-methods-addressing-the-escalating-challenge-in-india/106273055",
+                    "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-106273055,imgsize-1041383,width-1200,height=765,overlay-ethealth/industry/the-urgent-need-for-innovative-mosquito-control-methods-addressing-the-escalating-challenge-in-india.jpg",
+                    "publishedAt": "2023-12-26T00:33:59Z",
+                    "content": "By Prasad PhadkeFor over a century, India has grappled with the menace of mosquito-borne diseases, with the primary culprits being malaria, dengue, chikungunya, and Zika. Despite significant progress… [+5134 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Bnnbreaking.com"
+                    },
+                    "author": "Salman Khan",
+                    "title": "Heightened Health Risks in Winter: A Medical Alert - BNN Breaking",
+                    "description": "As winter temperatures plunge, the risk of heart attacks and brain hemorrhages heightens, particularly for individuals with heart disease and hypertension. Protective measures are vital.",
+                    "url": "https://bnnbreaking.com/breaking-news/health/winters-chill-ushers-in-heightened-health-risks-warns-physicians/",
+                    "urlToImage": "https://media.bnn.network/content/uploads/2023/12/winter-health-risks-20231225224430.jpg",
+                    "publishedAt": "2023-12-25T22:44:00Z",
+                    "content": "In the face of plummeting temperatures, doctors are issuing a stark warning about the increased risk of heart attacks and brain hemorrhages, especially for individuals with heart disease and hyperten… [+2683 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
+                    },
+                    "author": null,
+                    "title": "Spotlight On Heart Health | Cardiac Events Spike During The Holidays - CBS 8 San Diego",
+                    "description": null,
+                    "url": "https://www.youtube.com/watch?v=D1QuY1ijGq0",
+                    "urlToImage": null,
+                    "publishedAt": "2023-12-25T21:35:05Z",
+                    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
+                    },
+                    "author": null,
+                    "title": "NHS: How new technology is helping detect cancer sooner - Sky News",
+                    "description": "Calderdale and Huddersfield NHS Foundation Trust in West Yorkshire is using new technology and AI - including a surgical robot, to achieve its national targe...",
+                    "url": "https://www.youtube.com/watch?v=P02Cie2wisg",
+                    "urlToImage": "https://i.ytimg.com/vi/P02Cie2wisg/maxresdefault.jpg",
+                    "publishedAt": "2023-12-25T21:24:12Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Eatingwell.com"
+                    },
+                    "author": "https://www.facebook.com/EatingWell/",
+                    "title": "The Best Vegetable to Help You Poop, According to Dietitians - EatingWell",
+                    "description": "Veggies can help relieve constipation because of their fiber and fluid content. Find out our choice for the best veggie to help you poop.",
+                    "url": "https://www.eatingwell.com/the-best-vegetable-to-help-you-poop-8415776",
+                    "urlToImage": "https://www.eatingwell.com/thmb/TK2IG1yIdcMeKUiZKxES3C4E7b4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Vegetable-to-Help-You-Poop-According-to-Dietitian-227cfb7cbf9348fe84771f2302e5177b.jpg",
+                    "publishedAt": "2023-12-25T20:00:00Z",
+                    "content": "Straining on the toilet, passing dry stool or feeling like your stool hasnt fully passed are all signs of constipation, per the National Institute of Diabetes and Digestive and Kidney Disease. There … [+5964 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "The Tribune India"
+                    },
+                    "author": "The Tribune India",
+                    "title": "Chandigarh sees rise in drug-resistant TB cases - The Tribune India",
+                    "description": null,
+                    "url": "https://www.tribuneindia.com/news/chandigarh/chandigarh-sees-rise-in-drug-resistant-tb-cases-575380",
+                    "urlToImage": null,
+                    "publishedAt": "2023-12-25T19:40:48Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Dailypioneer.com"
+                    },
+                    "author": "Daily Pioneer",
+                    "title": "Ingestible vibrating capsule taken before meal could cure obesity: MIT - Daily Pioneer",
+                    "description": "If nonmedical interventions such as diet exercise or existing medical interventions including gastric bypass surgery, as well as gastric balloons are not helping you to shed those extra kilos then fret not.\n\nMIT engineers have now come up with a new way to ta…",
+                    "url": "https://www.dailypioneer.com/2023/india/ingestible-vibrating-capsule-taken-before-meal-could-cure-obesity--mit.html",
+                    "urlToImage": "https://www.dailypioneer.com/images/logo.jpg",
+                    "publishedAt": "2023-12-25T19:08:59Z",
+                    "content": "If nonmedical interventions such as diet exercise or existing medical interventions including gastric bypass surgery, as well as gastric balloons are not helping you to shed those extra kilos then fr… [+2098 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Netmeds.com"
+                    },
+                    "author": "Kalyani Krishna",
+                    "title": "Holiday Feasting: How To Avoid Sudden Blood Sugar Spikes? - Netmeds.com",
+                    "description": "Why are glucose spikes harmful, how to avoid blood sugar spikes after meals, causes of sudden rise during holiday season feasting are stated in the feature.",
+                    "url": "https://www.netmeds.com/health-library/post/holiday-feasting-how-to-avoid-sudden-blood-sugar-spikes",
+                    "urlToImage": "https://www.netmeds.com/images/cms/magefan_blog/nmslite/1703227075_Sudden-sugar-spikes_480x180.jpg",
+                    "publishedAt": "2023-12-25T18:36:32Z",
+                    "content": "The holiday season often brings a delightful array of feasts and treats, tempting everyone to indulge in the festive spirit. For individuals managing diabetes, this season can pose a significant chal… [+2945 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "Jaiphal benefits: 5 solid reasons you should include nutmeg in your diet - IndiaTimes",
+                    "description": "Nutmeg is not just a beloved kitchen spice to a potential source of pain relief and anti-inflammatory benefits is an exciting exploration in the realm of natural remedies.",
+                    "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/jaiphal-benefits-5-solid-reasons-you-should-include-nutmeg-in-your-diet/photostory/106100967.cms",
+                    "urlToImage": "https://static.toiimg.com/photo/106100983.cms",
+                    "publishedAt": "2023-12-25T18:30:00Z",
+                    "content": "Nutmeg, the aromatic spice renowned for its rich, warm flavor, extends beyond culinary delight, unveiling a potential treasure trove of health benefits. Rooted in ancient traditions, nutmeg has evolv… [+299 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": null,
+                    "title": "What is 'dopamine dating' and how to ace it at different stages of a relationship? - IndiaTimes",
+                    "description": "In the ever-evolving landscape of modern relationships, the concept of dopamine dating has emerged as a novel approach to keeping the spark alive. Dopamine, often referred to as the feel-good neurotransmitter, plays a crucial role in the pleasure and reward s…",
+                    "url": "https://timesofindia.indiatimes.com/life-style/relationships/love-sex/what-is-dopamine-dating-and-how-to-ace-it-at-different-stages-of-a-relationship/photostory/106268390.cms",
+                    "urlToImage": "https://static.toiimg.com/photo/106268441.cms",
+                    "publishedAt": "2023-12-25T17:30:00Z",
+                    "content": "Every relationship encounters challenges, and adeptly navigating them necessitates a conscious effort to sustain dopamine-driven excitement. During tough times, focus on shared problem-solving and em… [+419 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Ajmc.com"
+                    },
+                    "author": "Brooke McCormick",
+                    "title": "Patients With Breast Cancer, HIV More Likely to Experience Suboptimal Adjuvant Chemotherapy Delivery - AJMC.com Managed Markets Network",
+                    "description": "The researchers noted the need for strategies to better support women living with HIV with breast cancer during toxic therapies to improve outcomes among this growing population.",
+                    "url": "https://www.ajmc.com/view/patients-with-breast-cancer-hiv-more-likely-to-experience-suboptimal-adjuvant-chemotherapy-delivery",
+                    "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/ajmc/c95db5ea5d480b6bad1eed4e3adbe7cb939839f5-5256x3508.jpg?fit=crop&auto=format",
+                    "publishedAt": "2023-12-25T17:08:20Z",
+                    "content": "Patients with breast cancer and comorbid HIV are more likely to experience suboptimal delivery of adjuvant chemotherapy than those with breast cancer without HIV, according to a study published in JA… [+5351 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "happi.com"
+                    },
+                    "author": null,
+                    "title": "Five Superfoods For Skin Health - Happi",
+                    "description": "Here’s what on the menu, according to aesthetic doctors.",
+                    "url": "https://www.happi.com/contents/view_breaking-news/2023-12-25/5-superfoods-for-skin-health/",
+                    "urlToImage": "https://images.rodpub.com/images/295/358_main.jpg",
+                    "publishedAt": "2023-12-25T17:06:25Z",
+                    "content": "Copyright © 2023 Rodman Media. All rights reserved. Use of this constitutes acceptance of our privacy policy \r\n The material on this site may not be reproduced, distributed, transmitted, or otherwise… [+63 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Cancernetwork.com"
+                    },
+                    "author": "Amy Tiersten, MD",
+                    "title": "Toxicity After Chemo May be Avoided With Anastrozole Combo in Breast Cancer - Cancer Network",
+                    "description": "It may be possible to use anastrozole plus palbociclib, trastuzumab, and pertuzumab in place of chemotherapy in the frontline setting for hormone receptor–positive, HER2-positive metastatic breast cancer, says Amy Tiersten, MD.",
+                    "url": "https://www.cancernetwork.com/view/toxicity-after-chemo-may-be-avoided-with-anastrozole-combo-in-breast-cancer",
+                    "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/0ce07e59fffedb080a6cad77284cf00f67b660ff-1200x670.jpg?fit=crop&auto=format",
+                    "publishedAt": "2023-12-25T17:05:55Z",
+                    "content": "Amy Tiersten, MD, spoke with CancerNetwork® during the 2023 San Antonio Breast Cancer Symposium (SABCS)about how a regimen consisting of anastrozole (Arimidex), palbociclib (Ibrance), trastuzumab (He… [+2128 chars]"
+                }
     ]
+    
 }
+

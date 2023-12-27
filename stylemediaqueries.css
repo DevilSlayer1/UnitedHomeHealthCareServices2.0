@@ -27,22 +27,6 @@
         justify-content:center;
         margin-top: 20px;
     }
-    .prevent-btn .btn{
-        color: white;
-        background-color: rgb(81, 187, 164);
-        border-radius: 7px;
-        border: rgb(81, 187, 164) 2px solid;
-        height: 33px;
-        width: 150px;
-        font-size: 15px;
-        transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
-    }
-    
-    .prevent-btn .btn:hover{
-        color: rgb(81, 187, 164);
-        background-color: white;
-    
-    }
     h2{
         font-size: 25px;
     }
@@ -94,21 +78,6 @@
         display: flex;
         justify-content:center;
         margin-top: 20px;
-    }
-    .contact-btn .btn{
-        color: white;
-        background-color: rgb(81, 187, 164);
-        border-radius: 7px;
-        border: rgb(81, 187, 164) 2px solid;
-        height: 33px;
-        width: 150px;
-        font-size: 15px;
-        transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
-    }
-    .contact-btn .btn:hover{
-        color: rgb(81, 187, 164);
-        background-color: white;
-    
     }
 
 
@@ -371,22 +340,6 @@
         justify-content:center;
         margin-top: 35px;
     }
-    .prevent-btn .btn{
-        color: white;
-        background-color: rgb(81, 187, 164);
-        border-radius: 7px;
-        border: rgb(81, 187, 164) 2px solid;
-        height: 40px;
-        width: 165px;
-        font-size: 17px;
-        transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
-    }
-    
-    .prevent-btn .btn:hover{
-        color: rgb(81, 187, 164);
-        background-color: white;
-    
-    }
     h2{
         font-size: 30px;
     }
@@ -441,21 +394,6 @@
         display: flex;
         justify-content:center;
         margin-top: 20px;
-    }
-    .contact-btn .btn{
-        color: white;
-        background-color: rgb(81, 187, 164);
-        border-radius: 7px;
-        border: rgb(81, 187, 164) 2px solid;
-        height: 40px;
-        width: 165px;
-        font-size: 17px;
-        transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
-    }
-    .contact-btn .btn:hover{
-        color: rgb(81, 187, 164);
-        background-color: white;
-    
     }
     .prevent{
         padding: 95px 0px;
@@ -720,21 +658,6 @@
     .symptoms h4{
         text-align: left;
         margin-left: 70px;
-    }
-    .contact-btn .btn{
-        color: white;
-        background-color: rgb(81, 187, 164);
-        border-radius: 7px;
-        border: rgb(81, 187, 164) 2px solid;
-        height: 40px;
-        width: 165px;
-        font-size: 17px;
-        transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
-    }
-    .contact-btn .btn:hover{
-        color: rgb(81, 187, 164);
-        background-color: white;
-    
     }
     .prevent{
         padding: 95px 0px;
