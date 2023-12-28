@@ -572,7 +572,7 @@ header{
 .news-card {
     width: 500px;
     background-color: #fff;
-    margin: 10px;
+    margin: 20px;
     border-radius: 10px;
     box-shadow: 4px 4px 8px rgba(0.1, 0.1, 0.1, 0.1);
     overflow: hidden;
@@ -587,7 +587,7 @@ header{
 .news-card img {
     height: fit-content;
     width: 100%;
-    height: 150px;
+    height: 270px;
     object-fit: cover;
     border-bottom: 2px solid #ddd;
 }
@@ -629,6 +629,26 @@ header{
 }
 .covid-news{
     padding: 100px 0px;
+}
+.reload-btn{
+    display: flex;
+    justify-content:center;
+    margin-top: 20px;
+}
+.reload-btn .btn{
+    color: white;
+    background-color: rgb(81, 187, 164);
+    border-radius: 7px;
+    border: rgb(81, 187, 164) 2px solid;
+    height: 50px;
+    width: 175px;
+    font-size: 18px;
+    transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+.reload-btn .btn:hover{
+    color: rgb(81, 187, 164);
+    background-color: white;
+
 }
 /* Footer */
 

@@ -781,8 +781,532 @@
                     "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/0ce07e59fffedb080a6cad77284cf00f67b660ff-1200x670.jpg?fit=crop&auto=format",
                     "publishedAt": "2023-12-25T17:05:55Z",
                     "content": "Amy Tiersten, MD, spoke with CancerNetwork® during the 2023 San Antonio Breast Cancer Symposium (SABCS)about how a regimen consisting of anastrozole (Arimidex), palbociclib (Ibrance), trastuzumab (He… [+2128 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Dtnext.in"
+                    },
+                    "author": "AP",
+                    "title": "Flu and COVID infections are rising and could get worse over the holidays: CDC - DTNEXT",
+                    "description": "As for flu, early signs suggest current vaccines are well-matched to the strain that is causing the most illnesses, and that strain usually doesn’t cause as many deaths and hospitalizations as",
+                    "url": "https://www.dtnext.in/lifestyle/wellbeing/flu-and-covid-infections-are-rising-and-could-get-worse-over-the-holidays-cdc-756847",
+                    "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2023/12/26/789302-pmfm.jpg",
+                    "publishedAt": "2023-12-26T12:30:34Z",
+                    "content": "NEW YORK: Look for flu and COVID-19 infections to ramp up in the coming weeks, U.S. health officials say, with increases fueled by holiday gatherings, too many unvaccinated people and a new version o… [+2553 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Timesofindia.com"
+                    },
+                    "author": "Rishabh Raj",
+                    "title": "9 vegetables and fruits that are secretly making you gain weight - Recipes",
+                    "description": "We are often asked to eat fresh fruits and vegetables to manage our weight and lead a healthy lifestyle. But did you know there are calorie-dense items that are secretly making you gain weight? Take a look, and eat wisely.",
+                    "url": "https://recipes.timesofindia.com/web-stories/9-vegetables-and-fruits-that-are-secretly-making-you-gain-weight/photostory/106292998.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-106293044,imgsize-154014,width-900,height-1200,resizemode-6/106293044.jpg",
+                    "publishedAt": "2023-12-26T12:30:00Z",
+                    "content": "While pumpkin is a nutritious vegetable, it is also a calorie-dense item, which, if consumed in the form of dessert with sweeteners, may lead to weight gain."
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "Exercising to reduce high BP? Read what study done over 30 years has found - IndiaTimes",
+                    "description": "The research underscores the need to redefine minimum standards for physical activity, especially during the formative years of early adulthood. Exercise, when elevated beyond current recommendations, emerges as a powerful tool in preventing hypertension and …",
+                    "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/exercising-to-reduce-high-bp-read-what-study-done-over-30-years-has-found/photostory/106293426.cms",
+                    "urlToImage": "https://static.toiimg.com/photo/106293465.cms",
+                    "publishedAt": "2023-12-26T12:30:00Z",
+                    "content": "High blood pressure, or hypertension, is a major global health concern that is sometimes referred to as the \"silent killer.\" It affects billions of people worldwide. Hypertension is more than just a … [+464 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Forbes"
+                    },
+                    "author": "Jess Cording",
+                    "title": "Nutrition And Lifestyle Hacks To Help You Feel Calmer In The New Year - Forbes",
+                    "description": "Want to feel calmer in the new year? Try these food and lifestyle approaches from leading health experts to improve your mental wellbeing in the year ahead.",
+                    "url": "https://www.forbes.com/sites/jesscording/2023/12/26/nutrition-and-lifestyle-hacks-to-help-you-feel-calmer-in-the-new-year/",
+                    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65858290441772fcd666781e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                    "publishedAt": "2023-12-26T12:19:00Z",
+                    "content": "For 2024, according to the Forbes Health/OnePoll survey of 1000 Americans polled about their attitudes towards new years resolutions, mental health was a bigger focus than in years past. The most pop… [+9755 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "NDTV News"
+                    },
+                    "author": null,
+                    "title": "5 Things That You May Consume On Empty Stomach - NDTV Food",
+                    "description": "These signals are telling us something important: steer clear of certain foods on an empty stomach to dodge these discomforts",
+                    "url": "https://food.ndtv.com/food-drinks/5-things-that-you-may-consume-on-empty-stomach-4745822",
+                    "urlToImage": "https://c.ndtvimg.com/2023-07/bb7mmi1_papaya_640x480_22_July_23.jpg",
+                    "publishedAt": "2023-12-26T12:07:01Z",
+                    "content": "We all aspire to kickstart our day on a healthy note but let's face it, we sometimes stumble into pitfalls without realizing it. The classic wakeup call involves a comforting cup of coffee or tea, an… [+3729 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Editorji.com"
+                    },
+                    "author": "Editorji News Desk",
+                    "title": "Love having desserts after dinner? Here is why you should stop immediately - Editorji",
+                    "description": "If dessert is something you love to indulge in after dinner, you should consider stopping it. According to reports, consuming sugary items after dinner everyday can be very harmful to your health. Read on!",
+                    "url": "https://www.editorji.com/lifestyle-news/food/love-having-desserts-after-dinner-here-is-why-you-should-stop-immediately-1703590962147",
+                    "urlToImage": "https://cdn.editorji.com/kJhASQ2lqu.jpg",
+                    "publishedAt": "2023-12-26T11:42:42Z",
+                    "content": "Do you love your share of desserts and cannot conclude dinner without something sweet? Well, you should stop, now as this habit may harm you in the long run. Read on to know more!\r\nHow eating dessert… [+1098 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "NDTV News"
+                    },
+                    "author": null,
+                    "title": "Scottish Teen Seizure-Free After Groundbreaking Surgery That Removed Part Of His Brain - NDTV",
+                    "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+                    "url": "https://www.ndtv.com",
+                    "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+                    "publishedAt": "2023-12-26T11:33:34Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "WION"
+                    },
+                    "author": "Sneha Swaminathan",
+                    "title": "8 Reasons Why You Should Not Overeat Green-Leafy Vegetables - WION",
+                    "description": "8 Reasons Why You Should Not Overeat Green-Leafy Vegetables",
+                    "url": "https://www.wionews.com/web-stories/life-fun/8-reasons-why-you-should-not-overeat-greenleafy-vegetables-1703589027435",
+                    "urlToImage": null,
+                    "publishedAt": "2023-12-26T11:24:00Z",
+                    "content": "Some cruciferous vegetables, such as broccoli and kale, contain compounds known as goitrogens. In large quantities, these compounds may interfere with thyroid function, particularly in individuals wi… [+20 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "WION"
+                    },
+                    "author": "Zeba Khan",
+                    "title": "Winter Foods for Fertility: Expert Shares Foods That Help Reproductive System - WION",
+                    "description": "Winter Foods for Fertility: Expert Shares Foods That Help Reproductive System",
+                    "url": "https://www.wionews.com/entertainment/lifestyle/news-winter-foods-for-fertility-expert-shares-foods-that-help-reproductive-system-673712",
+                    "urlToImage": "https://cdn.wionews.com/sites/default/files/2023/12/26/401743-horizons-24.jpg",
+                    "publishedAt": "2023-12-26T10:54:01Z",
+                    "content": "While it is debatable, many medical experts believe that conceiving in the winters are harder than the summer months, at least in areas where the cold comes once a year. This is particularly because … [+3158 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "WION"
+                    },
+                    "author": "WION Desk",
+                    "title": "7 Health Benefits of Eating Berries in Winter - WION",
+                    "description": "7  Health Benefits of Eating Berries in Winter",
+                    "url": "https://www.wionews.com/web-stories/trending/7-health-benefits-of-eating-berries-in-winter-1703582618311",
+                    "urlToImage": null,
+                    "publishedAt": "2023-12-26T10:53:58Z",
+                    "content": "Berries, like strawberries and blueberries, are rich in vitamins, particularly vitamin C. This immune-boosting vitamin helps your body fend off winter colds and flu."
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Financial Express"
+                    },
+                    "author": "The Financial Express",
+                    "title": "Amid Covid spike, TB’s silent comeback: Chandigarh records highest incidence rate while Haryana stands fourth - The Financial Express",
+                    "description": null,
+                    "url": "https://www.financialexpress.com/healthcare/news-healthcare/amid-covid-spike-tbs-silent-comeback-chandigarh-records-highest-incidence-rate-while-haryana-stands-fourth-bkg/3347803/",
+                    "urlToImage": null,
+                    "publishedAt": "2023-12-26T10:48:45Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Moneycontrol"
+                    },
+                    "author": "Namita S Kalla",
+                    "title": "Health benefits of ginger: From pain relief to gut health and more, this spice is your best friend - Moneycontrol",
+                    "description": "Ginger, a versatile spice, not only enhances the flavor of dishes but also offers numerous health benefits. This spice aids digestion, reduces nausea, relieves pain and boosts immunity, among others.",
+                    "url": "https://www.moneycontrol.com/news/health-and-fitness/health-benefits-of-ginger-from-pain-relief-to-gut-health-and-more-this-spice-is-your-best-friend-11957281.html",
+                    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/Health-benefits-of-ginger-770x433.jpg",
+                    "publishedAt": "2023-12-26T10:30:35Z",
+                    "content": "If there is one spice that adds flavour and aroma to several culinary delights, it's ginger. This knobby and elongated root is known for its pungent flavour and aromatic quality that enriches various… [+2312 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "Is PCOS a potential factor in recurrent pregnancy loss? Lifestyle changes to reverse PCOS - IndiaTimes",
+                    "description": "Polycystic Ovary Syndrome (PCOS) is a condition that affects the hormonal balance in women of reproductive age. Women with PCOS may face challenges related to hormonal imbalances, insulin resistance, and irregular menstrual cycles, which can impact fertility …",
+                    "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/is-pcos-a-potential-factor-in-recurrent-pregnancy-loss-lifestyle-changes-to-reverse-pcos/photostory/106292051.cms",
+                    "urlToImage": "https://static.toiimg.com/photo/106292067.cms",
+                    "publishedAt": "2023-12-26T10:30:00Z",
+                    "content": "According to Dr. T. Shravya Tallapureddy, Senior Consultant, Ferty9 Fertility Center, “Obesity amplifies hormonal disturbances in PCOS. You must ensure you get 7-9 hours of quality sleep each night, … [+327 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "DailyO"
+                    },
+                    "author": "Ayaan Paul",
+                    "title": "A 'zombie deer disease' is infecting animals in the US. But could it spread to humans too? - DailyO",
+                    "description": "We've got a new addition to the list of apocalyptic-sounding diseases – a \"zombie deer disease\" that has been infecting hundreds of animals in the US, with a growing possibility it might make the jump to humans.",
+                    "url": "https://www.dailyo.in/news/a-zombie-deer-disease-is-infecting-animals-in-the-us-but-could-it-spread-to-humans-too-43051",
+                    "urlToImage": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202312/copy-of-g2-cover-3261223011841.png",
+                    "publishedAt": "2023-12-26T10:09:00Z",
+                    "content": "We've got a new addition to the list of apocalyptic-sounding diseases a \"zombie deer disease\" that has been infecting hundreds of animals in the US, with a growing possibility it might make the jump … [+2863 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India.com"
+                    },
+                    "author": "https://www.india.com/author/lifestylestaff/",
+                    "title": "Gestational Diabetes Symptoms: Blurred Eyesight to Fatigue, 6 Signs For Expectant Moms to be Watchful of - India.com",
+                    "description": "Gestation diabetes occurs during second or third trimester in pregnancy. Here are 6 symptoms that one's needs to be aware of.",
+                    "url": "https://www.india.com/health/gestational-diabetes-symptoms-blurred-eyesight-to-fatigue-6-signs-for-expectant-moms-to-be-watchful-of-6612644/",
+                    "urlToImage": "https://static.india.com/wp-content/uploads/2023/12/Untitled-design-13-19.png",
+                    "publishedAt": "2023-12-26T10:02:57Z",
+                    "content": "Gestation diabetes occurs during second or third trimester in pregnancy. Here are 6 symptoms that one's needs to be aware of. \r\nGestation diabetes occurs to pregnant women during second or third trim… [+2824 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Firstpost"
+                    },
+                    "author": "Firstpost",
+                    "title": "9 fermented foods to maintain gut health - Firstpost",
+                    "description": "Fermented foods contain probiotics, the beneficial bacteria that are helpful in a number of conditions, including diarrhoea, irritable bowel syndrome (IBS), hay fever, infant colic, and gum disease",
+                    "url": "https://www.firstpost.com/web-stories/lifestyle/9-fermented-foods-to-maintain-gut-health-19012.html",
+                    "urlToImage": "https://images.news18.com/webstories/2023/12/cropped-vertical-shot-pickled-vegetable-jar-with-blurred-background_181624-42208-658a8b3331b51.jpg",
+                    "publishedAt": "2023-12-26T09:41:50Z",
+                    "content": "Sauerkraut is rich in probiotics that supports gut health by promoting the growth of beneficial bacteria. Its fermented nature enhances nutrient absorption and may boost the immune system.\r\nThis trad… [+1333 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "The Quint"
+                    },
+                    "author": "Shivangani Singh",
+                    "title": "Constipation Prevention: 8 Lifestyle Tips To Relieve Constipation - The Quint FIT",
+                    "description": "Constipation is a common problem that can be an issue if you can't find a way around it, Here are a few simple habits and lifestyle changes that can help relieve constipation",
+                    "url": "https://www.thequint.com/fit/constipation-prevention-8-lifestyle-tips-to-relieve-constipation",
+                    "urlToImage": "https://images.thequint.com/thequint-fit%2F2021-05%2F9d0b4d1a-de08-42da-b2d4-307fb4285fd8%2FiStock_660345238.jpg",
+                    "publishedAt": "2023-12-26T09:26:09Z",
+                    "content": "According to Dr. Hardik Shah, a Consultant Gastroenterologist at Bhatia Hospital, Mumbai people can follow the below steps to prevent constipation.<li>Hydration is Key: One of the simplest yet often … [+2251 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India.com"
+                    },
+                    "author": "Tanya Dutt",
+                    "title": "Women Health: Recognizing Subtle Signs Of Sleep Disorders Among Females, Expert Shares Tips For Better Slee... - Zee News",
+                    "description": "Sleep plays a crucial role in maintaining our physical, mental, and emotional well-being. A peacefuland uninterrupted nights sleep not only rejuvenates and energizes our bodies, but also serves as a protective barrier against numerous health issues. According…",
+                    "url": "https://zeenews.india.com/health/women-health-recognizing-subtle-signs-of-sleep-disorders-among-females-expert-shares-tips-for-better-sleep-2702955",
+                    "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/12/26/1341620-woman-sleeping.png",
+                    "publishedAt": "2023-12-26T09:08:01Z",
+                    "content": "Sleep plays a crucial role in maintaining our physical, mental, and emotional well-being. A peacefuland uninterrupted night's sleep not only rejuvenates and energizes our bodies, but also serves as a… [+4190 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India TV News"
+                    },
+                    "author": "Written by Rahul Pratyush",
+                    "title": "Exercise to adequate sleep: 5 tips to boost happy chemicals in the brain - India TV News",
+                    "description": "Feeling down? Our brains are natural chemical factories, brewing feel-good hormones just waiting to be tapped. From sunshine and movement to connection and accomplishment, this article explores simple ways to unlock your inner happiness cocktail and turn that…",
+                    "url": "https://www.indiatvnews.com/lifestyle/news/exercise-to-adequate-sleep-5-tips-to-boost-happy-chemicals-in-the-brain-2023-12-26-908993",
+                    "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/12/happy-1703580134.jpg",
+                    "publishedAt": "2023-12-26T08:55:26Z",
+                    "content": "In the complex realm of brain chemistry, there are neurotransmitters known as \"happy chemicals\" that play a crucial role in regulating our mood and overall well-being. Serotonin, dopamine, oxytocin, … [+1913 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Thehealthsite.com"
+                    },
+                    "author": "Prerna Mittra",
+                    "title": "New Study Reveals Night Owls At Higher Risk Of Coronary Artery Calcification | TheHealthSite.com - TheHealthSite",
+                    "description": "Coronary artery calcification is a buildup of calcium that can predict your cardiovascular risk. Symptoms like chest pain usually do not show up until you have had it for a while. TheHealthSite.com",
+                    "url": "https://www.thehealthsite.com/diseases-conditions/new-study-reveals-night-owls-at-higher-risk-of-coronary-artery-calcification-1048200/",
+                    "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2023/12/Freepik-heart-health-night-owl.jpg",
+                    "publishedAt": "2023-12-26T08:31:00Z",
+                    "content": "Are you a night owl? (Photo: Freepik)\r\nCoronary artery calcification is a buildup of calcium that can predict your cardiovascular risk. Symptoms like chest pain usually do not show up until you have … [+3150 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "The New Indian Express"
+                    },
+                    "author": "Express News Service",
+                    "title": "IISc finds way to battle persistence in Tuberculosis - The New Indian Express",
+                    "description": "Researchers suggested that combining antibiotics with drugs targeting IscS and SUF might be more effective.",
+                    "url": "https://www.newindianexpress.com/states/karnataka/2023/dec/27/iisc-finds-way-to-battle-persistence-in-tuberculosis-2645187.html",
+                    "urlToImage": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/10/7/w600X390/Tuberculosis_.jpg",
+                    "publishedAt": "2023-12-27T00:35:00Z",
+                    "content": "BENGALURU: Researchers at the Indian Institute of Science (IISc), in collaboration with National Centre for Biological Sciences (NCBS) and InStem, found an important mechanism that allows the tubercu… [+5831 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "Curd v/s buttermilk: Which is healthier? - IndiaTimes",
+                    "description": "Curd, or yogurt, is made by fermenting milk with beneficial bacteria, providing protein, probiotics, and essential nutrients. Buttermilk, derived from",
+                    "url": "https://timesofindia.indiatimes.com/life-style/food-news/curd-v/s-buttermilk-which-is-healthier/articleshow/106299776.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-106299776,width-1070,height-580,imgsize-118678,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-12-26T22:30:00Z",
+                    "content": "Love prediction for VIRGO"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Dailyexcelsior.com"
+                    },
+                    "author": "Daily Excelsior",
+                    "title": "Covid, flu surge in U.S. amid holidays, increasing health risks - Daily Excelsior",
+                    "description": "LOS ANGELES, Dec 26: The United States has seen an uptick in flu and Covid19 cases amid holidays, and health experts are concerned about the increasing health risks brought by the simultaneous spread of respiratory illnesses. The amount of respiratory illness…",
+                    "url": "https://www.dailyexcelsior.com/covid-flu-surge-in-u-s-amid-holidays-increasing-health-risks/",
+                    "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2020/08/11-21.jpg",
+                    "publishedAt": "2023-12-26T21:32:30Z",
+                    "content": "LOS ANGELES, Dec 26: The United States has seen an uptick in flu and Covid19 cases amid holidays, and health experts are concerned about the increasing health risks brought by the simultaneous spread… [+2388 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "ThePrint"
+                    },
+                    "author": "ANI",
+                    "title": "Addressing health, lifestyle variables might minimise the risk of young-onset dementia: Study - ThePrint",
+                    "description": "England [UK], December 27 (ANI): A wide range of risk factors for young-onset dementia have been found by researchers. The findings call into question the concept that genetics is the only cause of the disease, paving the way for novel preventative techniques…",
+                    "url": "https://theprint.in/health/addressing-health-lifestyle-variables-might-minimise-the-risk-of-young-onset-dementia-study/1901504/",
+                    "urlToImage": null,
+                    "publishedAt": "2023-12-26T21:02:11Z",
+                    "content": "Relatively little research has been done on young-onset dementia, though globally there are around 370,000 new cases of young-onset dementia each year.\r\nPublished in JAMA Neurology, the new research … [+3857 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Sportskeeda"
+                    },
+                    "author": "Saima Khan",
+                    "title": "8 tips to reduce sodium intake from your diet - Sportskeeda",
+                    "description": "Whether it's for weight loss or other health benefits, finding ways to reduce sodium intake can help us immensely.",
+                    "url": "https://www.sportskeeda.com/health-and-fitness/8-tips-reduce-sodium-intake-diet",
+                    "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/53b59-17036210905056-1920.jpg",
+                    "publishedAt": "2023-12-26T20:47:00Z",
+                    "content": "Whether it's for weight loss or other health benefits, finding ways to reduce sodium intake can help us immensely.\r\nLess is always better when it comes to nutritional sodium, but most individuals cur… [+4626 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
+                    },
+                    "author": null,
+                    "title": "Suffers of long COVID are starting to seek a new approach to recovery - KMBC 9",
+                    "description": "Suffers of long COVID are starting to seek a new approach to recoverySubscribe to KMBC on YouTube now for more: http://bit.ly/1fXGVrhGet more Kansas City new...",
+                    "url": "https://www.youtube.com/watch?v=5lxzmxR9bho",
+                    "urlToImage": "https://i.ytimg.com/vi/5lxzmxR9bho/maxresdefault.jpg",
+                    "publishedAt": "2023-12-26T20:39:09Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "Lesser known secrets of Neem leaves: Health benefits, culinary uses, and some side effects too - IndiaTimes",
+                    "description": "Neem leaves offer a range of health benefits, including skincare benefits and promoting oral health. They can address issues like gum diseases and cav",
+                    "url": "https://timesofindia.indiatimes.com/life-style/food-news/lesser-known-secrets-of-neem-leaves-health-benefits-culinary-uses-and-some-side-effects-too/articleshow/106299712.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-106299712,width-1070,height-580,imgsize-58402,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-12-26T20:30:00Z",
+                    "content": "The debate over menstruation and equity: What people really think about Smriti Irani's comments on paid period leave for women"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Newstracklive.com"
+                    },
+                    "author": "EMMANUAL",
+                    "title": "Obesity can be so harmful, did you know? - News Track English",
+                    "description": "In a world dominated by sedentary lifestyles and processed foods, obesity emerges as a silent yet potent threat to health.\r\n\r\nThe Alarming Statistics\r\n\r\nObesity Rates on the Rise The global prevalence of obesity has witnessed a staggering surge, posing a sign…",
+                    "url": "https://english.newstracklive.com/news/obesity-can-be-so-harmful-did-you-know-sc53-nu371-ta371-1306863-1.html",
+                    "urlToImage": "https://media.newstrack.in/uploads/lifestyle-health/health-tips/Dec/26/big_thumb/rdgfgfdg_658aaa5255a67.jpg",
+                    "publishedAt": "2023-12-26T20:20:11Z",
+                    "content": "In a world dominated by sedentary lifestyles and processed foods, obesity emerges as a silent yet potent threat to health.\r\nThe Alarming Statistics\r\nObesity Rates on the Rise The global prevalence of… [+3554 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Inshorts.com"
+                    },
+                    "author": "Debosmita Ghosh",
+                    "title": "What Causes Anaemia In Individuals With Kidney Disease? | Anaemia In Individuals With Kidney Disease | Inshorts - Inshorts",
+                    "description": "Anaemia arises when the body lacks sufficient healthy red blood cells or haemoglobin to transport oxygen, hind",
+                    "url": "https://inshorts.com/en/news/what-causes-anaemia-in-individuals-with-kidney-disease-1703605638948",
+                    "urlToImage": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/12_dec/26_tue/img_1703605589307_436.jpg?",
+                    "publishedAt": "2023-12-26T20:14:24Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "ScienceAlert"
+                    },
+                    "author": "Tessa Koumoundouros",
+                    "title": "Every COVID Infection Increases Your Risk of Long COVID, Study Warns - ScienceAlert",
+                    "description": "Vaccines ensure bouts of COVID are far less deadly than they were at the pandemic's start, yet multiple studies now suggest even seemingly mild cases of the coronavirus have a cost.",
+                    "url": "https://www.sciencealert.com/every-covid-infection-increases-your-risk-of-long-covid-study-warns",
+                    "urlToImage": "https://www.sciencealert.com/images/2023/12/FatiguedManLiesDown.jpg",
+                    "publishedAt": "2023-12-26T20:01:27Z",
+                    "content": "Vaccines ensure bouts of COVID are far less deadly than they were at the pandemic's start, yet multiple studies now suggest even seemingly mild cases of the coronavirus have a cost. With every single… [+4683 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "News-Medical.Net"
+                    },
+                    "author": null,
+                    "title": "New model links RNA editing glitch to early-stage type 1 diabetes - News-Medical.Net",
+                    "description": "Hebrew University study proposes a new model suggesting that disrupted RNA editing within pancreatic beta cells might initiate an inflammatory response akin to early-stage type 1 diabetes.",
+                    "url": "https://www.news-medical.net/news/20231226/New-model-links-RNA-editing-glitch-to-early-stage-type-1-diabetes.aspx",
+                    "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Type_1_Diabetes-620x480.jpg",
+                    "publishedAt": "2023-12-26T20:00:00Z",
+                    "content": "Hebrew University study proposes a new model suggesting that disrupted RNA editing within pancreatic beta cells might initiate an inflammatory response akin to early-stage type 1 diabetes. This new p… [+3497 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "News-Medical.Net"
+                    },
+                    "author": null,
+                    "title": "Understanding the genetic basis of hereditary diffuse gastric cancer - News-Medical.Net",
+                    "description": "Gastric cancer, a significant global health burden, claims over 7% of cancer-related deaths annually. Although only 1-3% of cases have a genetic basis, understanding these genetic drivers is crucial for developing preventative strategies.",
+                    "url": "https://www.news-medical.net/news/20231226/Understanding-the-genetic-basis-of-hereditary-diffuse-gastric-cancer.aspx",
+                    "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+                    "publishedAt": "2023-12-26T19:47:00Z",
+                    "content": "Gastric cancer, a significant global health burden, claims over 7% of cancer-related deaths annually. Although only 1-3% of cases have a genetic basis, understanding these genetic drivers is crucial … [+2938 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "WION"
+                    },
+                    "author": "Srishti Sisodia",
+                    "title": "‘Winter Blues’: Do You Have Seasonal Affective Disorder (SAD) - WION",
+                    "description": "Image credit: Pexel/Pixabay",
+                    "url": "https://www.wionews.com/web-stories/trending/winter-blues-do-you-have-seasonal-affective-disorder-sad-1703617214085",
+                    "urlToImage": null,
+                    "publishedAt": "2023-12-26T19:12:10Z",
+                    "content": "Dec 27, 2023, 12:42AM IST"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "Chia seed: Roasted or raw which is better for you? - IndiaTimes",
+                    "description": "Choosing between roasted and raw chia seeds depends on your snack preferences and nutritional priorities. Roasting chia seeds intensifies their nutty",
+                    "url": "https://timesofindia.indiatimes.com/life-style/food-news/chia-seed-roasted-or-raw-which-is-better-for-you/articleshow/106299556.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-106299556,width-1070,height-580,imgsize-84512,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-12-26T18:30:00Z",
+                    "content": "Horoscope today, December 19, 2023: Astrological predictions for your zodiac signs"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "Can excessive intake of caffeine cause headache? How to prevent it - IndiaTimes",
+                    "description": "Suffering from severe headaches, then your love for tea and coffee can also be one of the reasons for triggering those sudden headaches. Here’s all yo",
+                    "url": "https://timesofindia.indiatimes.com/life-style/food-news/can-excessive-intake-of-caffeine-cause-headache-how-to-prevent-it/articleshow/106297650.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-106301513,width-1070,height-580,imgsize-41554,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-12-26T18:20:18Z",
+                    "content": "Television actress Saai Gayatris stunning look"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Passionateinmarketing.com"
+                    },
+                    "author": "Passionate In Marketing",
+                    "title": "Winter Health Advisory: Health Experts Warn Against Rising Heart Attacks, Take Care of Eye - Passionate In Marketing",
+                    "description": null,
+                    "url": "https://www.passionateinmarketing.com/winter-health-advisory-health-experts-warn-against-rising-heart-attacks-take-care-of-eye/",
+                    "urlToImage": null,
+                    "publishedAt": "2023-12-26T17:46:50Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Thehealthsite.com"
+                    },
+                    "author": "Rupali Kumari",
+                    "title": "8 Signs of Stroke That Are Often Overlooked - TheHealthSite",
+                    "description": "Stroke symptoms in women can differ from those in men, with specific risk factors and signs that are often overlooked.",
+                    "url": "https://www.thehealthsite.com/webstories/diseases-conditions/stroke-signals-that-are-often-overlooked-1048167/",
+                    "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2023/12/8-Stroke-Symptoms-in-Women-Often-Overlooked-1.jpg",
+                    "publishedAt": "2023-12-26T17:45:15Z",
+                    "content": "Women may face post-stroke challenges such as depression, trouble swallowing, or cognitive impairments, affecting their rehabilitation and recovery.\r\nSource: Thehealthsite"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "TCTMD"
+                    },
+                    "author": "Caitlin E. Cox",
+                    "title": "High Systolic BP, LDL at a Young Age Matter Later in Life - TCTMD",
+                    "description": "Even if a patient addresses these factors by age 55, they could still be extra vulnerable to CHD in their older years.",
+                    "url": "https://www.tctmd.com/news/high-systolic-bp-ldl-young-age-matter-later-life",
+                    "urlToImage": "https://d14d5nk8lue86f.cloudfront.net/s3fs-public/2023-12/High%20Systolic%20BP%2C%20LDL%20at%20a%20Young%20Age%20Matter%20Later%20in%20Life.jpg",
+                    "publishedAt": "2023-12-26T17:45:00Z",
+                    "content": "High levels of systolic blood pressure and LDL cholesterol early in life are linked to greater likelihood of coronary heart disease (CHD) after age 55, independent of later-life risk factors, an anal… [+3350 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
+                    },
+                    "author": null,
+                    "title": "After Christmas, doctors in Palm Beach County expect rise in COVID-19, flu cases - WPBF 25 News",
+                    "description": "After Christmas, doctors in Palm Beach County expect rise in COVID-19, flu casesSubscribe to WPBF on YouTube now for more: http://bit.ly/1qfxvbXGet more West...",
+                    "url": "https://www.youtube.com/watch?v=OMW7ofJrFWs",
+                    "urlToImage": "https://i.ytimg.com/vi/OMW7ofJrFWs/maxresdefault.jpg",
+                    "publishedAt": "2023-12-26T17:27:36Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Salon"
+                    },
+                    "author": "Michael La Corte",
+                    "title": "In the new year, is it actually possible to cut out “hidden sugar”? - Salon",
+                    "description": "We should probably all be cutting down on sugar — in all forms",
+                    "url": "https://www.salon.com/2023/12/26/in-the-new-year-is-it-actually-possible-to-cut-out-hidden-sugar/",
+                    "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/12/sugar_cubes_in_metallic_spoons_1303221013.jpg",
+                    "publishedAt": "2023-12-26T17:00:00Z",
+                    "content": null
                 }
+            
+        
     ]
-    
 }
 
+
+
+        

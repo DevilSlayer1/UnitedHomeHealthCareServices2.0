@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     const howpreventbtn=document.getElementsByClassName('btn')[0];
     const contactbtn=document.getElementsByClassName('btn')[1];
     const gohome=document.querySelector('.navigation-bar');
+    const reload=document.getElementsByClassName('btn')[2];
     home.addEventListener('click',()=>{
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
@@ -40,6 +41,9 @@ document.addEventListener('DOMContentLoaded',()=>{
     });
     const gonews=document.querySelector('.covid-news');
     news.addEventListener('click',()=>{
+        gonews.scrollIntoView({behavior: 'smooth'});
+    });
+    reload.addEventListener('click',()=>{
         gonews.scrollIntoView({behavior: 'smooth'});
     });
 /*background-color: rgb(81, 187, 164);
