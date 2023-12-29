@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     console.log(data.articles.length);
                     let length=data.articles.length;
                     const shuffledArticles = shuffleArray(data.articles);
-                    //addnews.innerHTML = '';
+                    addnews.innerHTML = '';
                     for (let i = 0; i <9; i++) {
                         
                             const article = shuffledArticles[i];
