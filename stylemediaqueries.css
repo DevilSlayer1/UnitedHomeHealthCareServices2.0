@@ -186,18 +186,21 @@
         height: 100vh;
         padding-top: 50px;
         display: flex;
-        align-items: flex-start;
+        align-items: center;
         flex-direction: column;
         margin: 0px;
         overflow-y: auto;
     }
     .navbar ul li{
-        margin: 10px;
+        margin: 10px 0px; 
+        width: 100%;
+        text-align: center;
     }
 
     .navbar ul li{
         display: flex;
-        padding: 10px 10px;
+        padding: 10px 0px;
+        justify-content: center;
         color: white;
         background-color: rgb(81, 187, 164);
         border-radius: 5px;
@@ -496,17 +499,21 @@
         height: 100vh;
         padding-top: 50px;
         display: flex;
-        align-items: flex-start;
+        align-items: center;
         flex-direction: column;
         margin: 0px;
+        overflow-y: auto;
     }
     .navbar ul li{
-        margin: 10px;
+        margin: 10px 0px; 
+        width: 100%;
+        text-align: center;
     }
 
     .navbar ul li{
         display: flex;
-        padding: 10px 10px;
+        padding: 10px 0px;
+        justify-content: center;
         color: white;
         background-color: rgb(81, 187, 164);
         border-radius: 5px;
