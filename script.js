@@ -43,9 +43,6 @@ document.addEventListener('DOMContentLoaded',()=>{
     news.addEventListener('click',()=>{
         gonews.scrollIntoView({behavior: 'smooth'});
     });
-    reload.addEventListener('click',()=>{
-        gonews.scrollIntoView({behavior: 'smooth'});
-    });
 /*background-color: rgb(81, 187, 164);
     color: white;
     border-radius: 5px;*/
