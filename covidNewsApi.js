@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     let length=data.articles.length;
                     const shuffledArticles = shuffleArray(data.articles);
                     addnews.innerHTML = '';
-                    for (let i = 0; i <9; i++) {
+                    for (let i = 0; i <12; i++) {
                         
                             const article = shuffledArticles[i];
                             if(article.urlToImage!=null)
