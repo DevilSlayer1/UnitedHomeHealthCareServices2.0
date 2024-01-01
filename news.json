@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 282,
+    "totalResults": 443,
     "articles": [
         {
             "source": {
@@ -2081,7 +2081,255 @@
                     "urlToImage": "https://static.toiimg.com/thumb/msid-106400178,width-1070,height-580,imgsize-138002,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
                     "publishedAt": "2023-12-30T09:30:00Z",
                     "content": "Bhumi Pednekar raises the fashion bar in a midnight blue off-shoulder gown"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": "mint",
+                    "title": "India’s cervical cancer drug, Cervavac, as efficient as global medicines: Lancet | Mint - Mint",
+                    "description": "Cervical cancer accounts for the second-highest number of cancer cases in India among women, after breast cancer. Serum Institute of India rolled out Cervavac earlier this year",
+                    "url": "https://www.livemint.com/science/indias-cervical-cancer-drug-cervavac-as-efficient-as-global-medicines-lancet-11704024281211.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/12/31/1600x900/LSpic2_1676310972807_1704024383069.jpg",
+                    "publishedAt": "2023-12-31T12:09:08Z",
+                    "content": "NEW DELHI : Indias first indigenously developed vaccine for the prevention of cervical cancer has the same efficacy as those procured from other countries, according to a recent study published in th… [+2580 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Healthshots.com"
+                    },
+                    "author": "Natalia Ningthoujam",
+                    "title": "My mom swears by neem ice cubes for acne - Health shots",
+                    "description": "Are you looking for a home remedy that will help you get rid of acne? Try neem ice cubes for acne treatment.",
+                    "url": "https://www.healthshots.com/mom-says/neem-ice-cubes-for-acne/",
+                    "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2023/12/30132305/acne.jpg",
+                    "publishedAt": "2023-12-31T11:30:55Z",
+                    "content": "For someone with oily skin, acne is one of the biggest concerns they fear. I have also been dealing with acne ever since I was a teenager. Right from my cleanser to sunscreen, I made sure to use skin… [+4118 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Zoom"
+                    },
+                    "author": "TN Health Desk",
+                    "title": "Dealing with Winter Colds? Simple Ways to Minimize Coughing and Sneezing - Times Now",
+                    "description": "Winter brings a surge in coughs and colds due to dipping temperatures and not taking enough precautions. The discomfort of persistent coughing and sneezing emphasizes the need for simple measures. Combat winter ailments with practical tips to minimize these i…",
+                    "url": "https://www.timesnownews.com/health/dealing-with-winter-colds-simple-ways-to-minimize-coughing-and-sneezing-article-106420673",
+                    "urlToImage": "https://static.tnn.in/thumb/msid-106420701,thumbsize-56706,width-1280,height-720,resizemode-75/106420701.jpg",
+                    "publishedAt": "2023-12-31T11:29:49Z",
+                    "content": "Generative AI Revolutionizes BFSI: Co-Pilots Enhance Customer Service, Compliance, and Revenue Growth"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "ET HealthWorld",
+                    "title": "Artificial intelligence lowers barrier to ultrasonic brain treatment - ETHealthWorld",
+                    "description": "A research team led by Dr. Kim, Hyungmin of the Bionics Research Center at the Korea Institute of Science and Technology (KIST) has developed a real-time acoustic simulation technology based on generative AI to predict and correct the distortion of the ultras…",
+                    "url": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-lowers-barrier-to-ultrasonic-brain-treatment/106420651",
+                    "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-106420651,imgsize-18016,width-1200,height=765,overlay-ethealth/health-it/artificial-intelligence-lowers-barrier-to-ultrasonic-brain-treatment.jpg",
+                    "publishedAt": "2023-12-31T11:24:11Z",
+                    "content": "Sejong: Using ultrasound energy to target specific millimetres of the brain, including deep areas, focused ultrasound technology is a non-invasive therapeutic approach that treats neurological disord… [+4228 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Moneycontrol"
+                    },
+                    "author": "Pallavi Mehra",
+                    "title": "6 health benefits of incorporating Intermittent Fasting in your daily routine - Moneycontrol",
+                    "description": "Leading experts share how Intermittent Fasting can improve your health and well-being.",
+                    "url": "https://www.moneycontrol.com/news/health-and-fitness/6-health-benefits-of-incorporating-intermittent-fasting-in-your-daily-routine-11979661.html",
+                    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/12/Weight-Loss3.-PC-diana-polekhina-unsplash-1-770x433.jpg",
+                    "publishedAt": "2023-12-31T10:58:58Z",
+                    "content": "Recently, researchers from King's College London shared that eating within a 10-hour window yields several health benefits.\r\nKnown as Intermittent Fasting, this eating pattern includes specific perio… [+5505 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Slurrp.com"
+                    },
+                    "author": "Yash Lakhan",
+                    "title": "7 New Year's Food Resolutions For A Healthier You In 2024 - Slurrp",
+                    "description": "Since 2023 is almost over, it is time to say goodbye to your old habits by replacing them with these 7 food resolutions that will make you the healthiest version of yourself in 2024. Read on to know more.",
+                    "url": "https://www.slurrp.com/article/7-new-years-food-resolutions-for-a-healthier-you-in-2024-1704019504970",
+                    "urlToImage": "https://images.slurrp.com/prodarticles/rxkzekokaxg.webp",
+                    "publishedAt": "2023-12-31T10:50:25Z",
+                    "content": "These seven New Year's resolutions about food will help you become the healthiest version of yourself. All you have to do is commit to them to improve your health both mentally and physically.\r\nEat A… [+1222 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Daijiworld.com"
+                    },
+                    "author": null,
+                    "title": "How India became world's diabetes capital; what we can do about it - Daijiworld.com",
+                    "description": "New Delhi, Dec 31 (IANS): Indians have always had a close relationship with diabetes. Our ancient texts contain accurate descriptions of diabetes (“madhumeha”).\r\nIndia was where crystalline cane sugar was first used. In 327 BCE, Nearchus, a general in Alexand…",
+                    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1154181",
+                    "urlToImage": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rayan_311223_Sugar1.jpg",
+                    "publishedAt": "2023-12-31T09:41:16Z",
+                    "content": "New Delhi, Dec 31 (IANS): Indians have always had a close relationship with diabetes. Our ancient texts contain accurate descriptions of diabetes (madhumeha).\r\nIndia was where crystalline cane sugar … [+4801 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "5 yoga poses for clearing blocked sinuses in winter - IndiaTimes",
+                    "description": "Elevate your winter wellness with five yoga poses designed to clear blocked sinuses. From the soothing Child's Pose to the invigorating Downward Dog, unlock the power of breath and movement. Embrace these natural remedies for sinus relief, promoting harmony w…",
+                    "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/fitness/5-yoga-poses-for-clearing-blocked-sinuses-in-winter/photostory/106323547.cms",
+                    "urlToImage": "https://static.toiimg.com/photo/106323729.cms",
+                    "publishedAt": "2023-12-31T09:40:15Z",
+                    "content": "Sit comfortably, using your right thumb to close off your right nostril and inhale through the left. Then, close the left nostril with your right ring finger and exhale through the right. Repeat, alt… [+266 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": null,
+                    "title": "Why you should make meditation a part of your daily work routine - Mint Lounge",
+                    "description": "Taking time out to meditate for a short time everyday can strengthen your immunity and enhance your ability to manage pressure",
+                    "url": "https://lifestyle.livemint.com/health/wellness/meditation-workplace-mental-health-stress-anxiety-mind-body-connection-111704011476820.html",
+                    "urlToImage": "https://images.livemint.com/img/2023/12/31/1140x641/mediensturmer-L3ZuYMvyaBo-unsplash_1704012998425_1704013020595.jpg",
+                    "publishedAt": "2023-12-31T09:35:06Z",
+                    "content": "Today's contemporary workplaces demand a strong emphasis on accomplishing productivity, innovation, and excellence. However, soaring stress levels and mental health challenges have made it evident th… [+3529 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Gbnews.com"
+                    },
+                    "author": "Sarra Gray",
+                    "title": "'I'm a doctor and there are five foods to eat as you age for a youthful glow' - GB News",
+                    "description": "What Britons put into their bodies becomes more important as they age.Doctors have shared the five foods that can help slow down the visible ageing of the skin.",
+                    "url": "https://www.gbnews.com/lifestyle/how-to-look-younger-doctor-best-foods",
+                    "urlToImage": "https://www.gbnews.com/media-library/diana-moran-takes-the-gb-news-panel-through-her-morning-exercise-routine.jpg?id=50892835&width=1200&height=600&coordinates=0%2C0%2C0%2C849",
+                    "publishedAt": "2023-12-31T09:01:54Z",
+                    "content": "What Britons put into their bodies becomes more important as they age.Doctors have shared the five foods that can help slow down the visible ageing of the skin.Those hoping to achieve a youthful glow… [+2148 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "Parmita Uniyal",
+                    "title": "5 ways how toxic smog in Delhi-NCR is affecting your lungs - Hindustan Times",
+                    "description": "Prolonged exposure to polluted air can play havoc with lung health and can cause respiratory issues. Here are ways toxic smog affects our lungs.",
+                    "url": "https://www.hindustantimes.com/photos/lifestyle/5-ways-how-toxic-smog-in-delhi-ncr-is-affecting-your-lungs-101704009466855.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/31/1600x900/toxic-smog_1704009602307_1704009602420.jpg",
+                    "publishedAt": "2023-12-31T08:14:41Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India TV News"
+                    },
+                    "author": "Kristina Das",
+                    "title": "5 benefits of eating garlic on an empty stomach - India TV News",
+                    "description": "Garlic is not only a popular ingredient in many dishes for its unique flavour, but it also holds numerous health benefits when consumed on an empty stomach.  at India TV News",
+                    "url": "https://www.indiatvnews.com/web-stories/lifestyle/5-benefits-of-eating-garlic-on-an-empty-stomach-2023-12-31-909703",
+                    "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1080_-/2023/12/garlic-benefits-1704009398.jpg",
+                    "publishedAt": "2023-12-31T08:00:23Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Healthshots.com"
+                    },
+                    "author": "Tanya Shree",
+                    "title": "5 best seedless dates you must include in your diet for a healthy body - Health shots",
+                    "description": "Healthy eating habits are important to maintain a fit body, so include some seedless dates in your diet. Here are some of the best seedless dates to help you stay fit.",
+                    "url": "https://www.healthshots.com/fitness/best-seedless-dates-for-health/",
+                    "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2023/12/21181156/Dates.jpg",
+                    "publishedAt": "2023-12-31T07:45:27Z",
+                    "content": "If you are keeping up with health trends, you know by now that a three-meal isn’t enough to stay fit. You must include dry fruits in your diet and adopt healthy eating habits. Among all the available… [+4070 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Moneycontrol"
+                    },
+                    "author": "Vijay Thakkar",
+                    "title": "How to prevent cardiac arrest in your 30s, 40s, 50s: Heart health in all ages and stages of life - Moneycontrol",
+                    "description": "Guarding your heart: Cardiac arrest, a sudden and often fatal event, can strike at any age, but the strategies to mitigate its risks evolve as we journey through life's different stages.",
+                    "url": "https://www.moneycontrol.com/news/health-and-fitness/how-to-prevent-cardiac-arrest-in-your-30s-40s-50s-heart-health-in-all-ages-and-stages-of-life-11979001.html",
+                    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/12/jamie-street-tb5A-QTI6xg-unsplash-1-770x433.jpg",
+                    "publishedAt": "2023-12-31T07:30:31Z",
+                    "content": "Cardiac arrest is a significant health concern worldwide, particularly in India. Globally, as per the latest World Heart Report 2023 published by the World Heart Federation, cardiovascular diseases (… [+20697 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Healthshots.com"
+                    },
+                    "author": "Healthshots",
+                    "title": "New Year 2024: 7 weight loss tips to follow - Health shots",
+                    "description": "This New Year, make sure you are following these 7 weight loss tips for a balanced and sustainable approach towards reducing the number on the scale.",
+                    "url": "https://www.healthshots.com/web-stories/new-year-7-weight-loss-tips-to-follow/",
+                    "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2023/12/29105006/weight-1.jpg",
+                    "publishedAt": "2023-12-31T07:30:00Z",
+                    "content": "This New Year, make sure you are following these 7 weight loss tips for a balanced and sustainable approach towards reducing the number on the scale.\r\nImage Credits : Shutterstock\r\nImage Credits : Sh… [+1561 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Yespunjab.com"
+                    },
+                    "author": null,
+                    "title": "Covid keeps coming back, but is it something to worry about? – Dr. Randeep Guleria - Yes Punjab",
+                    "description": "New Delhi, Dec 31 2023- Covid is now a viral infection and is caused by a virus which has now become endemic. Like influenza, the Covid-19 virus will continue to survive and there will be small spikes in the number of cases whenever there is a mutation in the…",
+                    "url": "https://yespunjab.com/covid-keeps-coming-back-but-is-it-something-to-worry-about-dr-randeep-guleria/",
+                    "urlToImage": "https://yespunjab.com/wp-content/uploads/2023/11/Covid-19.jpg",
+                    "publishedAt": "2023-12-31T06:41:46Z",
+                    "content": "New Delhi, Dec 31 2023-\r\nCovid is now a viral infection and is caused by a virus which has now become endemic. Like influenza, the Covid-19 virus will continue to survive and there will be small spik… [+3464 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India TV News"
+                    },
+                    "author": "Written by India TV Lifestyle Desk, Edited by Kristina Das",
+                    "title": "Happy New Year 2024: Five amazing tips to get rid of hangover after New Year's Eve party - India TV News",
+                    "description": "A hangover is nature's way of reminding us to drink responsibly. However, if you find yourself in this unfortunate situation, don't let it ruin your New Year celebrations. Follow these tips, and you will be on your way to feeling better in no time.",
+                    "url": "https://www.indiatvnews.com/lifestyle/news/happy-new-year-2024-five-amazing-tips-to-get-rid-of-hangover-after-new-year-s-eve-party-2023-12-31-909689",
+                    "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/12/hangover-1704004452.jpg",
+                    "publishedAt": "2023-12-31T06:39:04Z",
+                    "content": "As we start the new year and leave 2023 behind, many people will be partying with their families. They will have tasty food to eat and special drinks for everyone to enjoy. But, when you go to New Ye… [+3732 chars]"
+                },
+                {
+                    "source": {
+                        "id": "medical-news-today",
+                        "name": "Medical News Today"
+                    },
+                    "author": "Hannah Flynn",
+                    "title": "Colorectal cancer tumor growth may be driven by cholesterol - Medical News Today",
+                    "description": "Research in mice and laboratory samples suggests that some colorectal cancer tumors may use cholesterol to develop, so cholesterelor-lowering drugs might help target this mechanism.",
+                    "url": "https://www.medicalnewstoday.com/articles/might-statins-help-fight-colon-cancer-tumor-growth",
+                    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2023/12/cholesterol-lowering_drugs_GettyImages1370074885_Thumb.jpg",
+                    "publishedAt": "2023-12-31T06:22:30Z",
+                    "content": "One particular type of polyp, known as a serrated adenoma, is considered precancerous, and needs to be removed completely.\r\nThis poses a challenge as the polyps are flat, rather than growing on stalk… [+5358 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "ET HealthWorld",
+                    "title": "Researchers discover wide range of risk factors for young-onset dementia - ETHealthWorld",
+                    "description": "The large-scale study revealed 15 risk variables for late-onset dementia, which are identical to those for Alzheimer's disease. For the first time, they suggest that by focusing on health and lifestyle variables, it may be feasible to lower the risk of young-…",
+                    "url": "https://health.economictimes.indiatimes.com/news/industry/researchers-discover-wide-range-of-risk-factors-for-young-onset-dementia/106415811",
+                    "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-106415811,imgsize-29962,width-1200,height=765,overlay-ethealth/industry/researchers-discover-wide-range-of-risk-factors-for-young-onset-dementia.jpg",
+                    "publishedAt": "2023-12-31T06:08:35Z",
+                    "content": "England: Researchers discovered a wide range of risk factors for young-onset dementia. The findings bring the notion that heredity is the only cause of the disease into question, paving the potential… [+4249 chars]"
                 }
     ]
 } 
        
+        
