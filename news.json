@@ -2588,7 +2588,268 @@
                     "urlToImage": "https://media.newstrack.in/uploads/health-lifestyle/health-tips/Dec/31/big_thumb/PHK_6591513ca815d.JPG",
                     "publishedAt": "2023-12-31T13:52:31Z",
                     "content": "Taking care of one's health is crucial regardless of the season. Proper nutrition and hygiene play a significant role in preventing health issues, especially during the winter when lower temperatures… [+3890 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Healthnews.com"
+                    },
+                    "author": "Healthnews.com",
+                    "title": "Long COVID Risk Grows With Each Reinfection - Healthnews.com",
+                    "description": null,
+                    "url": "https://healthnews.com/news/reinfections-increase-the-risk-of-long-covid/",
+                    "urlToImage": null,
+                    "publishedAt": "2024-01-02T14:30:49Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Health.com"
+                    },
+                    "author": "https://www.facebook.com/Health/",
+                    "title": "Eating More Tomatoes May Help Prevent, Manage High Blood Pressure - Health.com",
+                    "description": "A new study shows that eating one tomato a day decreases high blood pressure risk. Experts explain what about tomatoes helps decrease blood pressure and how you can incorporate tomatoes into your diet.",
+                    "url": "https://www.health.com/eating-more-tomatoes-lower-blood-pressure-8414846",
+                    "urlToImage": "https://www.health.com/thmb/6_KiOkg_oSnTsTxCw8K6srCXFlQ=/1731x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-Stocksy-832528-ee1f548ebc0048e6be41f0321e233c12.jpg",
+                    "publishedAt": "2024-01-02T14:00:00Z",
+                    "content": "Forget appleseating a tomato a day might be beneficial for heart health.\r\nThe news comes from a study published last month in the European Journal of Preventive Cardiology, which found that tomatoes … [+5408 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "Zarafshan Shiraz",
+                    "title": "Foods and habits to improve your eye health in 2024 - Hindustan Times",
+                    "description": "Health experts recommend incorporating specific foods rich in nutrients essential for eye function while adopting practices that protect overall well-being. | Health",
+                    "url": "https://www.hindustantimes.com/lifestyle/health/foods-and-habits-to-improve-your-eye-health-in-2024-101704201338614.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/02/1600x900/towfiqu-barbhuiya-NwIExsCqXdM-unsplash_1704201443874_1704201470783.jpg",
+                    "publishedAt": "2024-01-02T13:27:53Z",
+                    "content": "Maintaining optimal eye health involves a combination of a balanced diet and healthy habits. Health experts recommend incorporating specific foods rich in nutrients essential for eye function while a… [+4232 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Daijiworld.com"
+                    },
+                    "author": null,
+                    "title": "Meat-based low-carb diet may not aid in weight loss: Study - Daijiworld.com",
+                    "description": "New York, Jan 2 (IANS): Following a low-carbohydrate diet to cut your weight?\r\nA new study shows that an animal-based low-carb diet may not help you lose weight, but a plant-based one may help.\r\nThe study led by researchers at Harvard T.H. Chan School of Publ…",
+                    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1154798",
+                    "urlToImage": "http://daijiworld.com/images/daijiSquareLogo.png",
+                    "publishedAt": "2024-01-02T13:22:49Z",
+                    "content": "New York, Jan 2 (IANS): Following a low-carbohydrate diet to cut your weight?\r\nA new study shows that an animal-based low-carb diet may not help you lose weight, but a plant-based one may help.\r\nThe … [+2456 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "mindbodygreen.com"
+                    },
+                    "author": "https://www.mindbodygreen.com/wc/alexandra-engler",
+                    "title": "3 Satisfying Collagen Recipes That Support Your Gut Health | mindbodygreen - mindbodygreen",
+                    "description": "Your collagen routine has potential way beyond coffee.",
+                    "url": "https://www.mindbodygreen.com/articles/3-satisfying-collagen-recipes-that-support-your-gut-health",
+                    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/fx21xc71xlh80reu1.false",
+                    "publishedAt": "2024-01-02T13:11:08Z",
+                    "content": "Gut health is the center of all health and well-being. For most wellness goals, your digestive health will play some role in the journey. So if you're looking to kick-start some happy habits, adding … [+4272 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Healthday.com"
+                    },
+                    "author": "Carole Tanzer Miller",
+                    "title": "Do You Really Need to Fast Before a Common Cardiac Test? - HealthDay",
+                    "description": "TUESDAY, Jan. 2, 2024 (HealthDay News) -- Prolonged fasting before an internal heart exam done under sedation may be unnecessary, new research suggests.Typicall",
+                    "url": "https://www.healthday.com/health-news/cardiovascular-diseases/do-you-really-need-to-fast-before-a-common-cardiac-test",
+                    "urlToImage": "https://media.assettype.com/healthday%2Fimport%2F29547449%2Forigin.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                    "publishedAt": "2024-01-02T13:00:42Z",
+                    "content": "TUESDAY, Jan. 2, 2024 (HealthDay News) -- Prolonged fasting before an internal heart exam done under sedation may be unnecessary, new research suggests.\r\nTypically, patients undergoing coronary arter… [+1763 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India TV News"
+                    },
+                    "author": "India TV News",
+                    "title": "7 reasons why hung curd should be a staple in your diet - India TV News",
+                    "description": null,
+                    "url": "https://www.indiatvnews.com/lifestyle/food/7-reasons-why-hung-curd-should-be-a-staple-in-your-diet-2024-01-02-909987",
+                    "urlToImage": null,
+                    "publishedAt": "2024-01-02T12:55:52Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "NDTV News"
+                    },
+                    "author": null,
+                    "title": "US Teen Finds Out She's In Labour After Going To Hospital For Stomach Pain - NDTV",
+                    "description": "A cryptic pregnancy is where a person doesn't realise they are expecting until a late trimester or as they go into labour.",
+                    "url": "https://www.ndtv.com/world-news/us-teen-finds-out-shes-in-labour-after-going-to-hospital-for-stomach-pain-4787116",
+                    "urlToImage": "https://c.ndtvimg.com/baby-generic_625x300_1529330292820.jpg",
+                    "publishedAt": "2024-01-02T12:34:24Z",
+                    "content": "After being in labour,she gave birth to her baby boy Silas just hours later.\r\nAn 18-year-old woman in the US was left stunned after she walked into a hospital with stomach pain, and then learned she … [+2150 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Dtnext.in"
+                    },
+                    "author": "IANS",
+                    "title": "Eat your breakfast, dinner early to reduce heart attack risk - DTNEXT",
+                    "description": "The study suggested eating the first meal of the day at 8 a.m. and dinner by 8 p.m. to avoid risk of cardiovascular disease.",
+                    "url": "https://www.dtnext.in/lifestyle/wellbeing/eat-your-breakfast-dinner-early-to-reduce-heart-attack-risk-758401",
+                    "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2024/01/02/791193-untitleddesign60.jpg",
+                    "publishedAt": "2024-01-02T12:30:54Z",
+                    "content": "LONDON: Are you one of those people who skip their first meal of the day or eat a late breakfast and dinner? Beware, you may be at risk of heart attack, warns a study. \r\nThe study suggested eating th… [+1941 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Slurrp.com"
+                    },
+                    "author": "Smriti Dey",
+                    "title": "Winter And Strawberries: 5 Health Benefits Of This Red Berry - Slurrp",
+                    "description": "Curious about your favourite fruit? Explore the health benefits of strawberries in winter, making them a nutritious addition to your diet. Don't hesitate to add these vibrant berries into your winter meals for a delicious and healthful dish.",
+                    "url": "https://www.slurrp.com/article/winter-and-strawberries-5-health-benefits-of-this-red-berry-1704196295202",
+                    "urlToImage": "https://images.slurrp.com/prodarticles/ht9ki4imyff.webp",
+                    "publishedAt": "2024-01-02T12:10:47Z",
+                    "content": "Strawberry is one of the most-liked berries which can be added to desserts and dishes worldwide. Have you ever imagined that strawberries may have many health benefits that can help you improve your … [+147 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India TV News"
+                    },
+                    "author": "Written by Rahul Pratyush",
+                    "title": "Berries to dark chocolate: 7 foods with anti-ageing benefits - India TV News",
+                    "description": "Treat your body to a rainbow of these age-defying delights every day, and witness the transformation from within. Ditch the fad diets and embrace the power of nature's delicious anti-ageing secrets.",
+                    "url": "https://www.indiatvnews.com/lifestyle/food/berries-to-dark-chocolate-7-foods-with-anti-ageing-benefits-2024-01-02-909981",
+                    "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/01/anti-ageing-1704196911.jpg",
+                    "publishedAt": "2024-01-02T12:05:10Z",
+                    "content": "Ageing is inevitable, but embracing it with vibrant health and a youthful glow? That's a choice we can make, and it starts with the fuel we put in our bodies. Forget fancy creams and pills; the key t… [+2094 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Drug Target Review"
+                    },
+                    "author": null,
+                    "title": "Mechanism discovered that enables TB persistence in humans - Drug Target Review",
+                    "description": "One gene involved in the production of iron-sulphur clusters may be crucial for the persistence of Mycobacterium tuberculosis.",
+                    "url": "https://www.drugtargetreview.com/news/113363/mechanism-discovered-that-enables-tb-persistence-in-humans/",
+                    "urlToImage": "https://www.drugtargetreview.com/wp-content/uploads/shutterstock_1013219203-1-e1629816644621.jpg",
+                    "publishedAt": "2024-01-02T12:02:49Z",
+                    "content": "Posted: 2 January 2024 | Drug Target Review | No comments yet\r\nOne gene involved in the production of iron-sulphur clusters may be crucial for the persistence of Mycobacterium tuberculosis. \r\nScienti… [+3909 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Dst.gov.in"
+                    },
+                    "author": null,
+                    "title": "Molecular events identified in biological phase transitions associated with neurogenetic disorders can help therapies - Department Of Science & Technology",
+                    "description": "The Department of Science & Technology plays a pivotal role in promotion of science & technology in the country.",
+                    "url": "https://dst.gov.in/molecular-events-identified-biological-phase-transitions-associated-neurogenetic-disorders-can-help",
+                    "urlToImage": null,
+                    "publishedAt": "2024-01-02T11:46:40Z",
+                    "content": "Scientists have unraveled the molecular mechanism of protein phase transitions associated with physiological functions and diseases. These unique molecular insights can potentially help the design of… [+3171 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "THE WEEK"
+                    },
+                    "author": "Sumitra Nair",
+                    "title": "Nutrition tips to make 2024 your healthiest year yet - The Week",
+                    "description": "These tips will help keep your weight in check without pulling you into a diet trap",
+                    "url": "https://www.theweek.in/leisure/lifestyle/2024/01/02/nutrition-tips-to-make-2024-your-healthiest-year-yet.html",
+                    "urlToImage": "https://www.theweek.in/content/dam/week/news/sci-tech/2019/June/Keto-ketogenic-diet-food-nutrition-diagram-low-carb-high-fat-healthy-weight-loss-meal-plan-shut.jpg",
+                    "publishedAt": "2024-01-02T11:36:32Z",
+                    "content": "There are enough diets out there to make your head spin-- Keto, intermittent, Atkins, the Mediterranean diet, the Blue Zone diet-- phew! As tempting as it might be, instead of trying the diets and fa… [+1636 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "DNA India"
+                    },
+                    "author": "Kajari Goswami",
+                    "title": "8 best face yogas to get rid of double chin - DNA India",
+                    "description": "8 best face yogas to get rid of double chin",
+                    "url": "https://www.dnaindia.com/web-stories/lifestyle/8-best-face-yogas-to-get-rid-of-double-chin-1704193711463",
+                    "urlToImage": null,
+                    "publishedAt": "2024-01-02T11:31:52Z",
+                    "content": "Fish face: Suck in your cheeks and lips to create a fish face, holding for 15 seconds, This exercise targets the muscles in your cheeks and jaw."
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "WION"
+                    },
+                    "author": "Heena Sharma",
+                    "title": "5 Health Benefits of Endive - WION",
+                    "description": "5 Health Benefits of Endive",
+                    "url": "https://www.wionews.com/web-stories/life-fun/5-health-benefits-of-endive-1704194536788",
+                    "urlToImage": null,
+                    "publishedAt": "2024-01-02T11:27:51Z",
+                    "content": "Endive provides vitamins A and K, as well as minerals like calcium and potassium. It supports various bodily functions."
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "WION"
+                    },
+                    "author": "Heena Sharma",
+                    "title": "5 Health Benefits of Jicama - WION",
+                    "description": "5 Health Benefits of Jicama",
+                    "url": "https://www.wionews.com/web-stories/life-fun/5-health-benefits-of-jicama-1704194209184",
+                    "urlToImage": null,
+                    "publishedAt": "2024-01-02T11:21:53Z",
+                    "content": "The fibre content in jicama may contribute to better blood sugar control, especially important for individuals with diabetes."
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "WION"
+                    },
+                    "author": "WION Desk",
+                    "title": "6 Common Signs of Low Potassium in Body - WION",
+                    "description": "6 Common Signs of Low Potassium in Body",
+                    "url": "https://www.wionews.com/web-stories/trending/6-common-signs-of-low-potassium-in-body-1704193387778",
+                    "urlToImage": null,
+                    "publishedAt": "2024-01-02T11:19:37Z",
+                    "content": "Low potassium levels can lead to muscle weakness or cramping, affecting your ability to perform daily activities."
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Moneycontrol"
+                    },
+                    "author": "Sushmita Srivastav",
+                    "title": "Health benefits of hummus: 8 reasons why you must eat this popular dip - Moneycontrol",
+                    "description": "Hummus, a delightful dip recipe of chickpeas, tahini, olive oil, and garlic, offers a multitude of health advantages. Its nutrient density, coupled with its diverse culinary applications, makes it a highly recommended addition to a balanced diet.",
+                    "url": "https://www.moneycontrol.com/news/health-and-fitness/health-benefits-of-hummus-plant-based-protein-source-how-to-keep-heart-healthy-health-benefits-of-garlic-how-to-control-blood-sugar-11987371.html",
+                    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/01/Health-benefits-of-hummus-770x433.jpg",
+                    "publishedAt": "2024-01-02T11:10:35Z",
+                    "content": "When it comes to delectable dips, hummus reigns supreme. This Middle Eastern spread, crafted from humble ingredients like chickpeas, tahini, olive oil, lemon juice, and garlic, not only tantalises ta… [+2727 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Moneycontrol"
+                    },
+                    "author": "PTI",
+                    "title": "BDR Pharmaceuticals introduces prostate cancer treatment drug in oral solution form - Moneycontrol",
+                    "description": "This innovative formulation marks a significant step forward in providing an effective dosage form with lesser side effects in comparison to existing oral dosage forms of Enzalutamide, it added.",
+                    "url": "https://www.moneycontrol.com/news/trends/health/bdr-pharmaceuticals-introduces-prostate-cancer-treatment-drug-in-oral-solution-form-11988391.html",
+                    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/01/1500x900_171528-bdr-pharma-725x435.jpg",
+                    "publishedAt": "2024-01-02T11:01:13Z",
+                    "content": "BDR Pharmaceuticals on January 2 said it has introduced Enzalutamide oral solution for treatment of prostate cancer, claiming to be the first company in the world to bring it through the new drug del… [+1563 chars]"
                 }
     ]
 } 
+        
         
