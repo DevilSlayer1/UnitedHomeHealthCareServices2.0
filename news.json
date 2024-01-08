@@ -3628,9 +3628,267 @@
             "urlToImage": "https://static.toiimg.com/thumb/msid-106596530,imgsize-75724,width-900,height-1200,resizemode-6/106596530.jpg",
             "publishedAt": "2024-01-06T16:30:00Z",
             "content": "Pineapple is a good source of essential nutrients, including vitamin C, manganese, vitamin B6, thiamine, and folate."
-        }      
-
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Eating these fats can slow down lung fibrosis says research - Times of India - IndiaTimes",
+            "description": "University of Virginia (UVA) researchers investigated the relationship between pulmonary fibrosis and omega-3 fatty acids. Higher blood levels of omeg",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/eating-these-fats-can-slow-down-lung-fibrosis-says-research/articleshow/106612123.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-106612123,width-1070,height-580,imgsize-111588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-01-07T09:44:10Z",
+            "content": "Common myths around heart diseases debunked"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Parmita Uniyal",
+            "title": "Pregnancy culinary delights: 3 tasty and wholesome recipes for expecting mothers - Hindustan Times",
+            "description": "Satiate your pregnancy cravings with nutrition-filled and delicious recipes that you can have at different times of the day, as recommended by a nutritionist. | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/pregnancy-culinary-delights-3-tasty-and-wholesome-recipes-for-expecting-mothers-101704619548344.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/07/1600x900/pregnancy_recipes_1704620448482_1704620520642.jpg",
+            "publishedAt": "2024-01-07T09:43:32Z",
+            "content": "Pregnancy diet is all about combining nutrition-packed foods with palatable choices for optimal well-being of moms-to-be and the unborn child. Pregnancy is a crucial phase that requires careful plann… [+3654 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "Should India study wastewater to track malaria, dengue? - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/sci-tech/should-india-study-wastewater-to-track-malaria-dengue/article67709942.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-01-07T09:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "Heena Sharma",
+            "title": "5 Health Benefits of Persimmon - WION",
+            "description": "5 Health Benefits of Persimmon",
+            "url": "https://www.wionews.com/web-stories/life-fun/5-health-benefits-of-persimmon-1704614953786",
+            "urlToImage": null,
+            "publishedAt": "2024-01-07T09:12:54Z",
+            "content": "Persimmons are a good source of vitamins A and C, essential for maintaining healthy skin, vision, and a robust immune system."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Statesman"
+            },
+            "author": "IANS",
+            "title": "Nutrients to enhanced immune health in 2024 - The Statesman",
+            "description": "Start your new year on a strong note by making a new year resolution to attain better immune health.",
+            "url": "https://www.thestatesman.com/lifestyle/nutrients-to-enhanced-immune-health-in-2024-1503257145.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2023/11/common-health-mistakes.jpg",
+            "publishedAt": "2024-01-07T09:04:00Z",
+            "content": "Start your new year on a strong note by making a new year resolution to attain better immune health. Good nutrition is critical to support a healthy immune system. There is a strong relationship betw… [+3831 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET HealthWorld",
+            "title": "Study shows disrupted sleep might cause memory, thinking problems - ETHealthWorld",
+            "description": "The duration and quality of individuals' sleep were examined by the researchers. To compute their averages, participants wore a wrist activity monitor for three consecutive days on two occasions, about one year apart. Participants slept for six hours on avera…",
+            "url": "https://health.economictimes.indiatimes.com/news/industry/study-shows-disrupted-sleep-might-cause-memory-thinking-problems/106611370",
+            "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-106611370,imgsize-10892,width-1200,height=765,overlay-ethealth/industry/study-shows-disrupted-sleep-might-cause-memory-thinking-problems.jpg",
+            "publishedAt": "2024-01-07T08:47:33Z",
+            "content": "Los Angeles: According to a recent study published online in Neurology, the official journal of the American Academy of Neurology, people who have more disrupted sleep in their 30s and 40s are more l… [+2742 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Timesofindia.com"
+            },
+            "author": "Shreyansh Mangla",
+            "title": "12 benefits of bay leaves you need to know - Recipes",
+            "description": "It is crucial to use bay leaves in moderation as part of a balanced diet, and consulting a healthcare professional, especially during pregnancy or breastfeeding, is advisable. Let us take a look at many benefits of bay leaves.",
+            "url": "https://recipes.timesofindia.com/web-stories/12-benefits-of-bay-leaves-you-need-to-know/photostory/106544711.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-106602322,imgsize-52308,width-900,height-1200,resizemode-6/106602322.jpg",
+            "publishedAt": "2024-01-07T08:30:07Z",
+            "content": "In culinary practices, bay leaves are commonly used as herbs, with many cooks incorporating them into their recipes. Whether used in whole, dried, or fresh form, bay leaves are often added to soups, … [+253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "Heena Sharma",
+            "title": "5 Health Benefits of Soursop - WION",
+            "description": "5 Health Benefits of Soursop",
+            "url": "https://www.wionews.com/web-stories/life-fun/5-health-benefits-of-soursop-1704615299320",
+            "urlToImage": null,
+            "publishedAt": "2024-01-07T08:18:53Z",
+            "content": "The fruit is a good source of potassium, which is essential for maintaining proper heart health, regulating blood pressure, and supporting overall cardiovascular function."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "5 superfoods for sharp eyesight - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/lifestyle/food-wine/superfoods-sharp-eyesight-9098719/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-07T07:39:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healthshots.com"
+            },
+            "author": "Healthshots",
+            "title": "6 foods to avoid with blood pressure levels - Health shots",
+            "description": "High blood pressure, or hypertension, is a major health concern that can lead to severe complications if left unmanaged. Here are 6 foods that may increase blood pressure levels.",
+            "url": "https://www.healthshots.com/web-stories/6-foods-to-avoid-with-blood-pressure-levels/",
+            "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2024/01/05200506/blood-pressure1.jpg",
+            "publishedAt": "2024-01-07T07:30:00Z",
+            "content": "High blood pressure, or hypertension, is a major health concern that can lead to severe complications if left unmanaged. Here are 6 foods that may increase blood pressure levels.\r\nImage Credits : Shu… [+1461 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "These are some healthy fibre supplements for weight loss - IndiaTimes",
+            "description": "This article discusses the importance of dietary fiber for health and well-being. It explains the two main types of fiber, soluble and insoluble, and",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/weight-loss/these-are-some-healthy-fibre-supplements-for-weight-loss/articleshow/106593245.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-106593419,width-1070,height-580,imgsize-94902,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-01-07T07:30:00Z",
+            "content": "Trending lip shades for 2024"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India.com"
+            },
+            "author": "Tanya Dutt",
+            "title": "Winter Self-Care: 7 Must-Haves To Stay Healthy And Happy In Biting Cold Weather - Zee News",
+            "description": "To combat the harsh effects of winter, start with a hydrating moisturizer. Protect your skin from windburn by incorporating a nourishing moisturizer into your daily routine. Look for ingredients like aloe vera and vitamin E, known for combating dryness and ma…",
+            "url": "https://zeenews.india.com/health/winter-self-care-7-must-haves-to-stay-healthy-and-happy-in-biting-cold-weather-2706980",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2024/01/07/1346265-winter-care-self.png",
+            "publishedAt": "2024-01-07T06:47:33Z",
+            "content": "To combat the harsh effects of winter, start with a hydrating moisturizer. Protect your skin from windburn by incorporating a nourishing moisturizer into your daily routine. Look for ingredients like… [+2760 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Parmita Uniyal",
+            "title": "Beat stress with beets: 4 surprising foods to reduce stress, boost brain health - Hindustan Times",
+            "description": "Fight stress with beetroot, blueberries and other amazing foods that can boost your brain health. | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/beat-stress-with-beets-4-surprising-foods-to-reduce-stress-boost-brain-health-101704609353836.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/07/1600x900/stress_busting_foods_1704609471804_1704609520650.jpg",
+            "publishedAt": "2024-01-07T06:45:38Z",
+            "content": "Feeling stressed post-holiday season? It could very well be the consequence of your holiday indulgences and altered nutrition habits that may be taking the toll. After days of indulging in festive tr… [+3437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "Shreyasi Jha",
+            "title": "Getting men into menstruation: Why a man celebrated his daughter’s first period - India Today",
+            "description": "A father celebrated his daughter's menarche in Uttarakhand. The idea behind it was to get a discussion started on a better menstrual experience for women. This is only possible if we get men into the menses. And this is how that can happen.",
+            "url": "https://www.indiatoday.in/sunday-special/story/menstruation-experience-menstrual-leave-smriti-irani-celebrating-first-period-rituals-customs-2485264-2024-01-07",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202401/menstruation-experience-period-065024460-16x9_0.jpg?VersionId=tEBm643KbPoLrV6uM09EvFhS8Y9ezLHa",
+            "publishedAt": "2024-01-07T05:58:36Z",
+            "content": "“Sometimes you need to throw a bomb to wake up a society that's asleep, like Bhagat Singh did,” says 40-year-old Jitendra Bhatt, a native of Uttarakhand. “I decided to celebrate my daughter’s menarch… [+11446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LatestLY"
+            },
+            "author": "Team Latestly",
+            "title": "What Is Hypersensitivity Pneumonitis? All You Need To Know About Life-Threatening Lung Disease Triggered by - LatestLY",
+            "description": "A few symptoms of hypersensitivity pneumonitis include constant cough, shortness of breath, and fatigue. Chronic exposure to pigeon droppings can also lead to fibrosis, thereby scarring the lung tissue.",
+            "url": "https://www.latestly.com/india/news/what-is-hypersensitivity-pneumonitis-all-you-need-to-know-about-life-threatening-lung-disease-triggered-by-inhalation-of-allergens-including-pigeon-droppings-5675944.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2023/09/Pigeons-784x441.jpg",
+            "publishedAt": "2024-01-07T05:48:13Z",
+            "content": "Mumbai, January 7: Staying close to pigeons or being exposed to pigeon droppings on an everyday basis can lead to severe health issues, including lung disease. The development comes in the wake of a … [+2207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India.com"
+            },
+            "author": "https://www.india.com/author/lifestylestaff/",
+            "title": "Weight Loss: K-Pop to K-Loss, 5 Tested Korean Habits That Will Help in Shedding That Stubborn Belly Fat - India.com",
+            "description": "Korean culture is known for its emphasis on healthy eating habits and maintaining a balanced lifestyle. Here are 5 Korean habits that are often associated with weight management.",
+            "url": "https://www.india.com/lifestyle/weight-loss-k-pop-to-k-loss-5-tested-korean-habits-that-will-help-in-shedding-that-stubborn-belly-fat-6638240/",
+            "urlToImage": "https://static.india.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-07-at-10.36.15-AM.jpeg",
+            "publishedAt": "2024-01-07T05:07:12Z",
+            "content": "Korean culture is known for its emphasis on healthy eating habits and maintaining a balanced lifestyle. Here are 5 Korean habits that are often associated with weight management. \r\nWeight Loss: K-Pop… [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "News18",
+            "title": "7 Benefits Of Consuming Berries In Winters - News18",
+            "description": "These are the benefits associated with the consumption of berries in winters.",
+            "url": "https://www.news18.com/web-stories/lifestyle/7-benefits-of-consuming-berries-in-winters-2-1487503/",
+            "urlToImage": "https://images.news18.com/webstories/2023/12/berries.jpg",
+            "publishedAt": "2024-01-07T04:55:51Z",
+            "content": "Producer:  Shreeja Bhattacharya"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Herzindagi.com"
+            },
+            "author": "ANUKRITI SRIVASTAVA",
+            "title": "Healthy Bites, Happy Travels: How To Maintain Healthy Eating Habits While Travelling - HerZindagi English",
+            "description": "Everything about travelling is great but when it comes to managing our eating habits we all often fail. While travelling we tend to eat things which are not good for our gut which leads to health issues. Read on to learn the ways you can manage healthy eating…",
+            "url": "https://www.herzindagi.com/tips-reviews/tips-to-manage-healthy-eating-while-travelling-article-254510",
+            "urlToImage": "https://images.herzindagi.info/image/2023/Nov/food-tips-healthy-travelling.jpg",
+            "publishedAt": "2024-01-07T04:30:00Z",
+            "content": "Travelling often takes a toll on our gut health because we engage in unhealthy eating habits. We are not at home where we can get healthy food. But these unhealthy eating habits can be managed by fol… [+2151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jagran.com"
+            },
+            "author": "Prerna Targhotra",
+            "title": "5 Winter Foods That Can Cause Unexpected Weight Gain - Jagran English",
+            "description": "Winter Foods Causing Weight Gain: Here are certain winter foods that may be causing you to gain extra weight and hampering your health.",
+            "url": "https://english.jagran.com/lifestyle/5-winter-foods-that-can-cause-unexpected-weight-gain-10125457",
+            "urlToImage": "https://imgeng.jagran.com/images/2024/jan/winter-foods-causing-weight-gain1704601713726.jpg",
+            "publishedAt": "2024-01-07T04:18:00Z",
+            "content": "Winter Foods Causing Weight Gain: An ideal winter diet includes foods that help to keep us warm and boost our immunity. These warm foods feel like a cosy and comfortable blanket on cold days. But som… [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Indian Express"
+            },
+            "author": "Bosky Khanna",
+            "title": "Do not take cold and cough lightly, it is not normal now, warns IMA - The New Indian Express",
+            "description": "Dr Vivek Anand Padegal, Director, Pulmonology Diseases, Fortis Hospital, Bannerghatta Road said that cases in OPDs of patients coming with cold and cough have been on the rise.",
+            "url": "https://www.newindianexpress.com/cities/bengaluru/2024/jan/07/do-not-take-cold-and-cough-lightly-it-is-not-normal-now-warns-ima-2648676.html",
+            "urlToImage": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/12/16/w600X390/Fever_EPS.jpg",
+            "publishedAt": "2024-01-07T03:42:00Z",
+            "content": "BENGALURU: Doctors and officials from the Indian Medical Association (IMA) have cautioned citizens, saying that they should not take cold and cough lightly anymore. The IMA is also asking doctors to … [+4050 chars]"
+        }
     ]
 } 
-
         
