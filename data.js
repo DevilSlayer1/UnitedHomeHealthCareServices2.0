@@ -104,6 +104,5 @@ document.addEventListener('DOMContentLoaded',()=>{
                 }
                 getotherdatacovid();
         }
-          
     });
 });
