@@ -4668,7 +4668,267 @@
             "urlToImage": "https://c.ndtvimg.com/2024-01/gac7rjus_fight-against-neglected-tropical-diseases_160x120_19_January_24.jpg",
             "publishedAt": "2024-01-19T16:06:26Z",
             "content": null
+        },
+         {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "How to deal with memory loss - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/sci-tech/science/how-to-deal-with-memory-loss/article67756474.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-01-20T18:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deccan Herald"
+            },
+            "author": "SNV Sudhir",
+            "title": "India's first indigenously developed Hepatitis A vaccine launched in Hyderabad - Deccan Herald",
+            "description": null,
+            "url": "https://www.deccanherald.com/health/healthcare/indias-first-indigenously-developed-hepatitis-a-vaccine-launched-in-hyderabad-2857818",
+            "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-01%2F3bdafc1a-8431-4efb-921a-9a62c2acd77b%2Fhep.jfif?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+            "publishedAt": "2024-01-20T17:09:52Z",
+            "content": "\"Currently Hepatitis A vaccines are imported into our country and as a true meaning of Atma Nirbhar Bharat, IIL has tirelessly put in efforts and developed Indias first vaccine for Hepatitis A. The v… [+995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "As temperatures drop, surge in respiratory infections and stomach flu among Mumbai children - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/cities/mumbai/temperatures-drop-surge-respiratory-infections-stomach-flu-mumbai-children-9119446/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-20T16:47:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scroll.in"
+            },
+            "author": "Eric Robinson, The Conversation",
+            "title": "‘Worse than smoking’: How true are the claims ultra-processed foods are bad for health? - Scroll.in",
+            "description": "It isn’t clear if food processing is harmful for health and fear-mongering can distract from acting on food that is actually bad.",
+            "url": "https://scroll.in/article/1062226/worse-than-smoking-how-true-are-the-claims-ultra-processed-foods-are-bad-for-health",
+            "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/197569-kjznvocczr-1705404169.jpg",
+            "publishedAt": "2024-01-20T16:30:00Z",
+            "content": "The perils of ultra-processed foods received widespread coverage in recent months thanks in no small part to the publication and promotion of TV presenter and doctor of virology Chris Van Tullekens b… [+5871 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India.com"
+            },
+            "author": "https://www.india.com/author/lifestylestaff/",
+            "title": "Migraine Pain: Stress to Sleep Deprivation, 7 Triggers of Chronic Headache in Winters - India.com",
+            "description": "Throbbing headache can sometimes disrupt our normal life functioning. Expert speaks on what may trigger migraine and how to mitigate the pain.",
+            "url": "https://www.india.com/health/migraine-pain-stress-to-sleep-deprivation-7-triggers-of-chronic-headache-in-winters-6669548/",
+            "urlToImage": "https://static.india.com/wp-content/uploads/2024/01/MixCollage-20-Jan-2024-08-57-PM-7224.jpg",
+            "publishedAt": "2024-01-20T15:44:51Z",
+            "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts Cookies Policy. \r\nReject AllAcce… [+13 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "Take steps to control seasonal diseases like dengue and malaria, GVMC Commissioner directs officials in Visakhapatnam - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/news/cities/Visakhapatnam/take-steps-to-control-seasonal-diseases-like-dengue-and-malaria-gvmc-commissioner-directs-officials-in-visakhapatnam/article67759759.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-01-20T14:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Khushi Pal",
+            "title": "5 foods that help improve thyroid function - Hindustan Times",
+            "description": "Here are 5 foods that are vital for the optimal functioning of the thyroid gland.",
+            "url": "https://www.hindustantimes.com/web-stories/lifestyle/5-foods-that-help-improve-thyroid-function-101705746520745.html",
+            "urlToImage": null,
+            "publishedAt": "2024-01-20T14:30:02Z",
+            "content": "By Khushi PalPublished Jan 20, 2024\r\nHindustan TimesLifestylePhoto Credits: Unsplash"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deccan Chronicle"
+            },
+            "author": "DC Correspondent",
+            "title": "Almonds for glowing skin, controlled blood sugar levels - Deccan Chronicle",
+            "description": "Hyderabad: In India, there’s a long-standing tradition of starting the day with almonds. Our mothers and grandmothers have always stressed upon the importance of incorporating almonds into our...",
+            "url": "https://www.deccanchronicle.com/lifestyle/almonds-for-glowing-skin-controlled-blood-sugar-levels-879208",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2024/01/20/1071674-nationalalmondday2.jpg",
+            "publishedAt": "2024-01-20T14:12:18Z",
+            "content": "Hyderabad: In India, theres a long-standing tradition of starting the day with almonds. Our mothers and grandmothers have always stressed upon the importance of incorporating almonds into our daily d… [+7384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "IANS",
+            "title": "Hepatitis B & C viruses can cause a common blood cancer: Study - Investing.com India",
+            "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
+            "url": "https://in.investing.com/news/hepatitis-b--c-viruses-can-cause-a-common-blood-cancer-study-3981430",
+            "urlToImage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/cb92fdb333133c5a9a9c97aca8ae0004_w_800_h_450.jpg",
+            "publishedAt": "2024-01-20T13:48:14Z",
+            "content": "London, Jan 20 (IANS) Hepatitis B and C viruses can cause multiple myeloma, one of the most common cancers of the blood, according to a study that opens up new treatment options for the fatal disease… [+2886 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Timesofindia.com"
+            },
+            "author": "Shivani Dhar",
+            "title": "12 best fruits for weight loss - Recipes",
+            "description": "​Fruits are rich in nutrients and minerals.  Incorporating low-calorie fruits can help shed extra kilos. Tap to know the 12 best fruits for weight loss.",
+            "url": "https://recipes.timesofindia.com/web-stories/12-best-fruits-for-effective-weight-loss/photostory/106907274.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-106907302,imgsize-93844,width-900,height-1200,resizemode-6/106907302.jpg",
+            "publishedAt": "2024-01-20T13:30:00Z",
+            "content": "Avocado reduces overall calorie intake and stops hunger pangs. It is rich in antioxidants, B vitamins, and vitamin K that reduce food cravings. It can help you stop unhealthy food habits, thereby ass… [+34 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "sahas, Lifestyle Desk",
+            "title": "Check-ups To Strain Management, 6 Essential Tips To Protect Eyesight - News18",
+            "description": "As you hit the age of 30, it's vital to adopt habits that safeguard your eyesight with these essential tips.",
+            "url": "https://www.news18.com/lifestyle/check-ups-to-strain-management-6-essential-tips-to-protect-eyesight-8748060.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/01/untitled-design-2024-01-20t183310.197-2024-01-3b452eb513aaefe241766a5ba39c16e0-16x9.jpg?impolicy=website&width=1200&height=675",
+            "publishedAt": "2024-01-20T13:04:11Z",
+            "content": "As individuals age, concerns about vision impairment become more prevalent. The ageing process often brings changes to the eyes, and while vision issues are common among seniors, adopting a series of… [+2557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slurrp.com"
+            },
+            "author": "Nikita Toppo",
+            "title": "Juice To Smoothie: 5 Healthy Beetroot Drinks To Relish This Winter Season - Slurrp",
+            "description": "Winter brings a lot of healthy fresh produce to our plate. Among all other vegetables, beetroot is the showstopper of the season. This gorgeous and vibrant root vegetable is a good source of various nutrients. If you are looking for some beetroot-based bevera…",
+            "url": "https://www.slurrp.com/article/juice-to-smoothie-5-healthy-beetroot-drinks-to-relish-this-winter-season-1705754295201",
+            "urlToImage": "https://images.slurrp.com/prodarticles/tfo5fenl47q.webp",
+            "publishedAt": "2024-01-20T12:53:05Z",
+            "content": "According to U.S Department Of Agriculture, 100g of raw beetroot contains 1.61g of protein, 2.8g of fibre, 23mg of magnesium and 109 µg of folate. It helps in managing blood pressure, fighting inflam… [+219 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "How can diabetics sleep better? - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/web-stories/wellness/how-can-diabetics-sleep-better/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-20T12:47:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Blood protein analysis reveals prolonged immune activity as culprit behind long Covid - The Economic Times",
+            "description": "Scientists from the University of Zurich have discovered that prolonged immune system activity, lasting more than six months after acute SARS-CoV-2 infection, could be a contributing factor to long Covid.",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/blood-protein-analysis-reveals-prolonged-immune-activity-as-culprit-behind-long-covid/articleshow/107014111.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-107014523,width-1200,height-630,imgsize-1540718,overlay-etpanache/photo.jpg",
+            "publishedAt": "2024-01-20T12:36:57Z",
+            "content": "NEW DELHI: By analysing proteins in blood, scientists have found that an immune system active for more than six months following acute SARS-CoV-2 infection could be contributing to long Covid. The im… [+2386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Lifestyle Desk",
+            "title": "Nutrition alert: Here’s what a 100-gram serving of green chana contains - The Indian Express",
+            "description": "According to Ekta Singhwal, dietician, Ujala Cygnus Group of Hospitals, green chana or green choliya can improve immunity, and blood sugar levels.",
+            "url": "https://indianexpress.com/article/lifestyle/food-wine/nutrition-alert-green-chana-choliya-green-chickpea-9117572/",
+            "urlToImage": "https://images.indianexpress.com/2024/01/green-chana.jpg",
+            "publishedAt": "2024-01-20T12:15:21Z",
+            "content": "In the realm of legumes, the chickpea often finds itself starring in the classic hummus narrative. Yet, hidden in plain sight lies its green alter ego the unsung hero known as green chana.According t… [+2740 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India TV News"
+            },
+            "author": "Rahul Pratyush",
+            "title": "5 effective lung exercises to maintain good respiratory health - India TV News",
+            "description": "Learn 5 lung exercises that can help you keep your respiratory system in good shape. These simple exercises can be easily incorporated into your daily routine. at India TV News",
+            "url": "https://www.indiatvnews.com/web-stories/lifestyle/5-effective-lung-exercises-to-maintain-good-respiratory-health-2024-01-20-912811",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1080_-/2024/01/1-34-1705741866.jpg",
+            "publishedAt": "2024-01-20T12:00:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mid-day"
+            },
+            "author": null,
+            "title": "Flexomend Reviews Critical WARNING! Customer Complaints Revealed - mid-day.com",
+            "description": "Flexomend Reviews- In reality, joint pain may impact several human beings nowadays.",
+            "url": "https://www.mid-day.com/lifestyle/infotainment/article/flexomend-reviews-critical-warning-customer-complaints-revealed-23330910",
+            "urlToImage": "https://images.mid-day.com/images/images/2024/jan/Flexomind2001_d.jpg",
+            "publishedAt": "2024-01-20T11:48:00Z",
+            "content": "Flexomend Reviews- In reality, joint pain may impact several human beings nowadays.\r\nFlexomend Reviews\r\nIf left untreated, joint pain may immediately become a chronic situation for everyone. As they … [+15308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India.com"
+            },
+            "author": "Tanya Dutt",
+            "title": "Cervical Cancer: Early Onset, Symptoms And All About Human Papillomavirus, Expert Shares Crucial Prevention... - Zee News",
+            "description": "Cervical cancer is the most common cancer among females in the rural population and it is one of the most common cancers among females in the urban population also. The most common cause of cervical cancer in Asian countries has been HPV positivity, that is, …",
+            "url": "https://zeenews.india.com/health/cervical-cancer-early-onset-symptoms-and-all-about-human-papillomavirus-expert-shares-crucial-prevention-strategies-2711888",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2024/01/20/1351972-cancer-cervical.png",
+            "publishedAt": "2024-01-20T11:36:38Z",
+            "content": "Cervical cancer is the most common cancer among females in the rural population and it is one of the most common cancers among females in the urban population also. The most common cause of cervical … [+2788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indiatodayne.in"
+            },
+            "author": "INDIATODAYNE",
+            "title": "Banish Back Pain: Simple Strategies for a Pain-Free Life - India Today NE",
+            "description": "Are you tired of constantly battling back pain? Discover the key to a pain-free life with our comprehensive guide.",
+            "url": "https://www.indiatodayne.in/visualstories/webstories/banish-back-pain-simple-strategies-for-a-pain-free-life-92635-20-01-2024",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2024/01/Thumbnail-60-scaled.jpg",
+            "publishedAt": "2024-01-20T11:27:02Z",
+            "content": "Ensure proper alignment of your spine by sitting and standing with a straight back.Use ergonomic furniture and accessories, such as a supportive chair and a desk at an appropriate height, to reduce s… [+18 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "Heena Sharma",
+            "title": "5 Health Benefits of Devil’s Claw - WION",
+            "description": "5 Health Benefits of Devil’s Claw",
+            "url": "https://www.wionews.com/web-stories/life-fun/5-health-benefits-of-devils-claw-1705748606812",
+            "urlToImage": null,
+            "publishedAt": "2024-01-20T11:17:23Z",
+            "content": "Jan 20, 2024, 04:47PM IST"
         }
     ]
-} 
+}
        
