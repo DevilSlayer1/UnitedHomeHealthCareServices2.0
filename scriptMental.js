@@ -4,13 +4,13 @@ let nextButton = document.getElementById("next-btn");
 
 let currentQuestionIndex = 0;
 let score = 0;
-let questions; // Declare questions globally
+let questions;
 
 async function fetchQuestions() {
     try {
-        const response = await fetch('./symptoms.json'); // Replace with the actual path to your JSON file
+        const response = await fetch('./mental.json'); 
         const data = await response.json();
-        questions = data; // Assign data to the global variable
+        questions = data; 
     } catch (error) {
         console.error('Error fetching questions:', error);
         questions = [];
@@ -18,7 +18,7 @@ async function fetchQuestions() {
 }
 
 async function startQuiz() {
-    await fetchQuestions(); // Wait for questions to be fetched
+    await fetchQuestions(); 
     if (questions.length > 0) {
         currentQuestionIndex = 0;
         score = 0;
@@ -69,15 +69,16 @@ function showScore() {
     // Add your score-based logic here
     if(score>=0 && score <=5)
     {
-        questionElement.innerHTML=`"Your symptoms suggest a low risk of COVID-19. Continue to practice preventive measures and monitor your health."`;
+        questionElement.innerHTML=`" Low risk, generally good mental health."`;
     }
     else if(score>=6 && score <=10)
     {
-        questionElement.innerHTML=`"You have moderate symptoms. Consider contacting a healthcare professional for further guidance."`;
+        questionElement.innerHTML=`"Moderate risk, consider seeking support or self-care practices."`;
     }
     else if(score>=11 && score<=15)
     {
-        questionElement.innerHTML=`"Your symptoms indicate a high risk of COVID-19. Please seek immediate medical attention. You can access health facilities from our website."`;
+        questionElement.innerHTML=`"High risk, strongly consider reaching out to a mental health professional.
+        "`;
     }
     else{
 

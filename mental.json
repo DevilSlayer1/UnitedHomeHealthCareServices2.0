@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Have you been feeling unusually anxious or worried lately?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Do you have trouble sleeping or experience changes in your sleep patterns?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Are you experiencing changes in your appetite, either eating more or less than usual?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you lost interest in activities you used to enjoy?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Do you feel fatigued or lacking in energy most days?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you been finding it hard to concentrate or make decisions?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Are you isolating yourself from friends or family?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you had thoughts of self-harm or suicide?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Are you easily irritated or angered?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Do you experience physical symptoms such as headaches or stomachaches without a clear cause?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you been using substances (alcohol, drugs) to cope with stress or emotions?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Are you experiencing any feelings of hopelessness or despair? ",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Do you feel overwhelmed by stress?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you noticed changes in your social relationships?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Do you have a support system or someone to talk to about your feelings?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    }
+]
