@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Do you currently have a fever?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you experienced a persistent cough?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Are you having difficulty breathing or shortness of breath?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you noticed a sudden loss of taste or smell?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Do you have muscle or body aches?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you been experiencing fatigue or weakness?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Do you have a sore throat?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you had close contact with someone diagnosed with COVID-19 in the last 14 days?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you recently traveled to an area with a high number of COVID-19 cases?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Do you have chills or repeated shaking with chills?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you experienced nausea, vomiting, or diarrhea?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Have you been in crowded places or attended large gatherings recently?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Do you have any pre-existing health conditions that may increase the severity of COVID-19 symptoms?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Are you currently pregnant or have you recently given birth?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    },
+    {
+        "question": "Are you over the age of 65 or in a high-risk group?",
+        "answers": [
+            { "text": "Yes", "state": "yes" },
+            { "text": "No", "state": "no" },
+            { "text": "Maybe", "state": "maybe" }
+        ]
+    }
+]
