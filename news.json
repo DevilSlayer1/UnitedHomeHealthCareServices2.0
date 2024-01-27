@@ -5708,10 +5708,266 @@
             "urlToImage": "https://cdn.editorji.com/Lzx3NztJg7.jpg",
             "publishedAt": "2024-01-24T07:12:33Z",
             "content": "What you have early in the morning decides how your day pans out. You should always try to start your day with a healthy drink. Amongst the many options, honey and lemon water is everyone's favourite… [+1515 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mirage News"
+            },
+            "author": "Mirage News",
+            "title": "Discovery Unveils Chemotherapy Efficiency in Bladder Cancer - Mirage News",
+            "description": null,
+            "url": "https://www.miragenews.com/discovery-unveils-chemotherapy-efficiency-in-1162231/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-26T16:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "World Health Organization"
+            },
+            "author": "World Health Organization: WHO",
+            "title": "Joint Message by Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization and Mr Yohei Sasakawa, WHO Goodwill Ambassador for Leprosy Elimination - World Health Organization",
+            "description": "<div><p><span style=\"background-color:transparent;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;\">Leprosy is one of the oldest and most misunderstood diseases in the world. Although it has now been curable …",
+            "url": "https://www.who.int/news/item/28-01-2024-joint-message-by-dr-tedros-adhanom-ghebreyesus--director-general-of-the-world-health-organization-and-mr-yohei-sasakawa--who-goodwill-ambassador-for-leprosy-elimination",
+            "urlToImage": "https://www.who.int/images/default-source/departments/ntd-library/leprosy/dr-tedros-y-hei-sasakawa-2024.tmb-1200v.jpg?Culture=en&sfvrsn=6bc3b632_1",
+            "publishedAt": "2024-01-26T15:39:55Z",
+            "content": "Leprosy is one of the oldest and most misunderstood diseases in the world. Although it has now been curable for more than 30 years, it still has the power to stigmatize.\r\nLeprosy, or Hansen’s disease… [+3456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Surrey medics launch bowel cancer vaccine trial - BBC.com",
+            "description": "Doctors behind the trial say the vaccine could be licensed for use in just two years.",
+            "url": "https://www.bbc.com/news/uk-england-surrey-68110020",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA0A/production/_131103534_54989d87ce8937557042dc64535ca31cc0924c8a.jpg",
+            "publishedAt": "2024-01-26T15:32:00Z",
+            "content": "A doctor behind the trial said the new vaccine could eradicate the cancer\r\nA \"groundbreaking\" vaccine to treat early bowel cancer will go on trial as part of a collaboration between doctors in Surrey… [+1691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ascopost.com"
+            },
+            "author": null,
+            "title": "Unintentional Weight Loss May Be a Warning Sign of Cancer, Study Finds - The ASCO Post",
+            "description": null,
+            "url": "https://ascopost.com/news/january-2024/unintentional-weight-loss-may-be-a-warning-sign-of-cancer-study-finds/",
+            "urlToImage": "https://ascopost.com/media/14020506/tap-logo-meta.png",
+            "publishedAt": "2024-01-26T15:19:51Z",
+            "content": "By The ASCO Post StaffPosted: 1/26/2024 9:51:00 AM\r\n Last Updated: 1/26/2024 10:16:16 AM\r\nUnintentional weight loss may be associated with an increased risk of receiving a cancer diagnosis within the… [+4275 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "8 Foods That Will Give Your Brain a Serotonin Boost Right Now - CNET",
+            "description": "The foods we eat can go a long way in boosting our moods. Here are our favorite snacks for happiness, according to science.",
+            "url": "https://www.cnet.com/health/mental/8-foods-that-will-give-your-brain-a-serotonin-boost-right-now/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f162cca51c6fd75ffc1a4ca3b419e467d6a85712/hub/2022/09/29/2ae196c9-3774-4585-8464-3c53cbf6f72f/gettyimages-1189151672.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-01-26T14:00:00Z",
+            "content": "Achieving happiness is top of mind for many people, and we'll try just about anything to get it. Whether it's therapy, exercise or meditation, we all want to bring more peace and joy into our lives. … [+5316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "Kirtika Katira",
+            "title": "6 Things To Know About Ectopic Pregnancy - WION",
+            "description": "6 Things To Know About Ectopic Pregnancy",
+            "url": "https://www.wionews.com/web-stories/life-fun/health-and-wellness/6-things-to-know-about-ectopic-pregnancy-1706275786340",
+            "urlToImage": null,
+            "publishedAt": "2024-01-26T13:42:48Z",
+            "content": "Definition: An ectopic pregnancy occurs when a fertilised egg implants itself outside the uterus, typically in the fallopian tubes. However, it can also occur in other areas such as the ovaries, cerv… [+23 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "American Medical Association"
+            },
+            "author": null,
+            "title": "What doctors wish patients knew about iron deficiency - American Medical Association",
+            "description": "One in three women under 50 is iron deficient. Learn more with the AMA on why that matters for your health and how to address it.",
+            "url": "https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-iron-deficiency",
+            "urlToImage": "https://www.ama-assn.org/sites/ama-assn.org/files/styles/image_ratio_16_9/public/2024-01/2023-12-26-IRONDEFWISH_Index-1170x780.jpg?itok=3GNC8v6a,https://www.ama-assn.org/sites/ama-assn.org/files/2019-01/2018-11-19-GENERICSOCIAL.jpg",
+            "publishedAt": "2024-01-26T13:00:00Z",
+            "content": "Do you find yourself consistently fatigued despite getting sufficient sleep each night? If you're also dealing with symptoms like dizziness, lightheadedness or brittle nails, it is possible that you'… [+11039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clevelandclinic.org"
+            },
+            "author": "Cleveland Clinic",
+            "title": "The Best Workout for Gut Health - Health Essentials",
+            "description": "Exercise helps your gut move better and balance its microbiome. You can start moving to get a healthier gut today — no special routine or equipment needed.",
+            "url": "https://health.clevelandclinic.org/gut-health-workout",
+            "urlToImage": "https://health.wordpress.clevelandclinic.org/wp-content/uploads/sites/3/2024/01/Best-Workouts-Gut-Health-1437503935-967x544-1.jpg",
+            "publishedAt": "2024-01-26T12:45:22Z",
+            "content": "The gut microbiome gets a lot of attention for its role in overall health. A healthy gut means you have better digestion and improved immunity. It could also play a role in preventing health conditio… [+6062 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "6 Reasons to add Raw Papaya to the daily diet - IndiaTimes",
+            "description": "Raw papaya is not only delicious but also offers several health benefits. While some benefits are well-known, there are lesser-known reasons to include raw papaya in your daily diet:",
+            "url": "https://timesofindia.indiatimes.com/life-style/food-news/6-reasons-to-add-raw-papaya-to-the-daily-diet/photostory/107165259.cms",
+            "urlToImage": "https://static.toiimg.com/photo/107165479.cms",
+            "publishedAt": "2024-01-26T12:38:00Z",
+            "content": "From spicy and flavourful sabzis to salads to curries, Raw Papaya is a versatile vegetable, which has been a quintessential part of Indian cuisine and every region has a unique way of preparing and r… [+221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pharmanewsintel.com"
+            },
+            "author": "PharmaNewsIntel",
+            "title": "Patients Maintain Weight Loss One Year After Discontinuing GLP-1 Drugs - PharmaNewsIntel",
+            "description": null,
+            "url": "https://pharmanewsintel.com/news/patients-maintain-weight-loss-one-year-after-discontinuing-glp-1-drugs",
+            "urlToImage": null,
+            "publishedAt": "2024-01-26T12:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abplive.com"
+            },
+            "author": "Utsa Ganguly",
+            "title": "Can Thyroid Issues Become Lethal If Ignored? See What Experts Say - ABP Live",
+            "description": "Hypothyroidism and hyperthyroidism are caused by reduced levels of thyroid hormones and increased levels of thyroid hormones respectively. Ignoring these conditions can be sometimes lethal.",
+            "url": "https://news.abplive.com/astro/thyroid-issues-become-lethal-if-ignored-thyroid-in-children-thyroid-awareness-month-1656830",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/26/58b178eb8b47ff96df5e3a404eaa81031706270958709557_original.png?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2024-01-26T12:10:06Z",
+            "content": "Thyroid gland dysfunction can lead to problems such as goiter, hypothyroidism or hyperthyroidism. Goitre is more of a structural problem in the thyroid gland which leads to enlargement of the gland. … [+3331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Europa.eu"
+            },
+            "author": null,
+            "title": "EMA confirms measures to minimise the risk of serious side effects with medicines containing pseudoephedrine - European Medicines Agency |",
+            "description": null,
+            "url": "https://www.ema.europa.eu/en/news/ema-confirms-measures-minimise-risk-serious-side-effects-medicines-containing-pseudoephedrine",
+            "urlToImage": null,
+            "publishedAt": "2024-01-26T12:00:00Z",
+            "content": "PRES and RCVS are rare conditions that can involve reduced blood supply to the brain, potentially causing serious, life-threatening complications. With prompt diagnosis and treatment, symptoms of PRE… [+5998 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bizzbuzz.news"
+            },
+            "author": "IANS",
+            "title": "Protein from mosquitoes could help control dengue virus infection - Bizz Buzz",
+            "description": "Scientists have found a protein in the Aedes aegypti mosquitoes that could one day help prevent and control the infection from dengue virus",
+            "url": "https://www.bizzbuzz.news/technology/protein-from-mosquitoes-could-help-control-dengue-virus-infection-1285239",
+            "urlToImage": "https://www.bizzbuzz.news/h-upload/2022/03/09/1494072-mosquito.jpg",
+            "publishedAt": "2024-01-26T11:53:42Z",
+            "content": "Singapore, Jan 26: Scientists have found a protein in the Aedes aegypti mosquitoes that could one day help prevent and control the infection from dengue virus. \r\nDengue virus from the genus flaviviru… [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gbnews.com"
+            },
+            "author": "Anna Barry",
+            "title": "How much exercise you should be doing to 'lower the risk of early death' - GB News",
+            "description": "According to new research, doing a specific amount of exercise per week can have an incredible effect on your longevity.A study found that working out can lead to a lower risk of death from cardiovascular disease. Combining both moderate and vigorous physical…",
+            "url": "https://www.gbnews.com/health/how-to-live-longer-exercise",
+            "urlToImage": "https://www.gbnews.com/media-library/diana-moran-takes-the-gb-news-panel-through-her-morning-exercise-routine.jpg?id=51193327&width=1200&height=600&coordinates=0%2C31%2C0%2C169",
+            "publishedAt": "2024-01-26T11:40:17Z",
+            "content": "According to new research, doing a specific amount of exercise per week can have an incredible effect on your longevity.\r\nA study found that working out can lead to a lower risk of death from cardiov… [+3607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News-Medical.Net"
+            },
+            "author": "Dr. Sushama R. Chaphalkar, PhD.",
+            "title": "The association between handgrip strength and functional outcomes in long COVID-19 - News-Medical.Net",
+            "description": "The association between dynapenia with long coronavirus disease 2019 (COVID-19).",
+            "url": "https://www.news-medical.net/news/20240126/The-association-between-handgrip-strength-and-functional-outcomes-in-long-COVID-19.aspx",
+            "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_770180_17062688503321115.jpg",
+            "publishedAt": "2024-01-26T11:36:00Z",
+            "content": "In a recent longitudinal study published in Scientific Reports, researchers from Brazil investigated the potential association between dynapenia (loss of muscle strength and power) with functional ou… [+5371 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Kidney stones: Separating myths from facts - IndiaTimes",
+            "description": "Kidney stones can be a painful and bothersome condition, and there are many misconceptions surrounding their treatment. Kidney stones are crystalline deposits that form in the kidneys when urine contains high levels of calcium, oxalate, and other substances. …",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/kidney-stones-separating-myths-from-facts/photostory/107166666.cms",
+            "urlToImage": "https://static.toiimg.com/photo/107166697.cms",
+            "publishedAt": "2024-01-26T11:30:00Z",
+            "content": "Kidney stones can be a painful and bothersome condition, and there are many misconceptions surrounding their treatment. Kidney stones are crystalline deposits that form in the kidneys when urine cont… [+502 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "ANI",
+            "title": "Can self-compassion help people reach their weight loss goals? - Hindustan Times",
+            "description": "The weight loss journey is difficult and laden with setbacks. self-compassion can help people to combat self-defeating thoughts and help them to stay motivated. | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/can-self-compassion-help-people-reach-their-weight-loss-goals-101706265688248.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/26/1600x900/h6_1658297170937_1706266587019.jpg",
+            "publishedAt": "2024-01-26T10:59:55Z",
+            "content": "Losing weight is exceedingly tough because high-calorie, delectable foods are easily accessible. Despite our best intentions, it is usual to overeat. These setbacks can be frustrating and demoralisin… [+3919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Sushmita Srivastav",
+            "title": "Exercise and fitness: 10 easy and realistic tips to maintain a consistent walking routine - Moneycontrol",
+            "description": "Best exercise tips: Staying motivated to walk daily involves a combination of setting realistic goals, creating a consistent routine, and finding enjoyment in the process.",
+            "url": "https://www.moneycontrol.com/news/health-and-fitness/exercise-and-fitness-10-easy-and-realistic-tips-to-maintain-a-consistent-walking-routine-12130311.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/10/Health-benefits-of-walking-15-770x433.jpg",
+            "publishedAt": "2024-01-26T10:55:03Z",
+            "content": "Walking is not just a physical activityit's a powerful tool to boost your mood, improve cardiovascular health, help you spend some time in nature, and enhance your overall quality of life. But in a w… [+3908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "ANI",
+            "title": "Furry fruit improves mental health: Study - Hindustan Times",
+            "description": "The study shows that Vitamin C helps in improved mood, vitality and well-being. | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/furry-fruit-improves-mental-health-study-101706265670382.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/26/1600x900/kiwi_3_1657692088039_1706266229257.jpg",
+            "publishedAt": "2024-01-26T10:53:16Z",
+            "content": "Kiwifruit has proven to be a powerful mood booster, and new research from the University of Otago demonstrates how quickly its effects can occur.\r\nFurry fruit improves mental health: Study(Pixabay)\r\n… [+2706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daijiworld.com"
+            },
+            "author": null,
+            "title": "Toxic metal exposure may affect women approaching menopause: Study - Daijiworld.com",
+            "description": "New York, Jan 26 (IANS): Middle-aged women who are exposed to toxic metals may have fewer eggs in their ovaries as they approach menopause, according to new research.\r\nDiminished ovarian reserve is when women have fewer eggs compared to others their age. The …",
+            "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1162021",
+            "urlToImage": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/arun_260124_womn.jpg",
+            "publishedAt": "2024-01-26T10:45:04Z",
+            "content": "New York, Jan 26 (IANS): Middle-aged women who are exposed to toxic metals may have fewer eggs in their ovaries as they approach menopause, according to new research.\r\nDiminished ovarian reserve is w… [+2384 chars]"
         }
-
-
     ]
 }
-
-        
