@@ -99,3 +99,16 @@
         transform: translateX(0px);
     }
 }
+@media (max-width: 800px) {
+    /* Styles for extra small devices */
+    .welcome{
+        max-height: fit-content;
+        gap: 0px;
+        margin: 0;
+        padding: 0;
+    }
+    .text1{
+        display: none;
+    }
+  }
+  
