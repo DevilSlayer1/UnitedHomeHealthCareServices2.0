@@ -105,3 +105,14 @@ nextButton.addEventListener('click', () => {
 });
 
 startQuiz();
+//new
+
+let startQuizBtn = document.getElementById('start-quiz');
+let welcome=document.querySelector('.welcome');
+let app=document.querySelector('.app');
+startQuizBtn.addEventListener('click',()=>{
+    app.style.animationName = 'anim1';
+    app.style.animationDuration ='0.5s';
+    welcome.classList.add('hidden');
+    app.classList.remove('hidden');
+})
