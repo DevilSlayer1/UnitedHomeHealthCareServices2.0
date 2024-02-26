@@ -102,7 +102,10 @@
 @media (max-width: 800px) {
     /* Styles for extra small devices */
     .welcome{
-        height: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50%;
         width: 100%;
         gap: 0px;
         margin: 0;
