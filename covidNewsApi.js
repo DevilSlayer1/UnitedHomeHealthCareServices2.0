@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
     
-    getNewsArticle(0,13);
+    getNewsArticle(0,16);
     const reload=document.getElementsByClassName('btn')[2];
     const end=document.getElementById('end-of-news');
     let c=13;

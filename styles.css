@@ -727,12 +727,12 @@ footer ul li{
   
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: #888; /* Color of the scroll handle */
+    background: rgb(81, 187, 164); /* Color of the scroll handle */
     border-radius: 10px; /* Rounded corners of the handle */
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #555; /* Darker color when hovered */
+    background: #141a75; /* Darker color when hovered */
   }
   
