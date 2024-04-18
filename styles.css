@@ -346,6 +346,7 @@ header{
 
 .card:hover {
     transform: scale(1.05);
+    box-shadow: 2px 2px 4px 0px rgba(44, 44, 44, 0.5);
 }
 
 .card h2 {
@@ -735,4 +736,3 @@ footer ul li{
   ::-webkit-scrollbar-thumb:hover {
     background: #141a75; /* Darker color when hovered */
   }
-  

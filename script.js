@@ -63,4 +63,17 @@ document.addEventListener('DOMContentLoaded',()=>{
     })
     
 
+//navbar
+ScrollReveal({reset:true}).reveal('.vertical-bottom', { distance: '100px',origin:'top',delay:'200'});
+ScrollReveal({reset:true}).reveal('.vertical-top', { distance: '-50px',origin:'bottom',delay:'200',});
+ScrollReveal({reset:false}).reveal('.navbar', { distance: '-100px',origin:'bottom'});
+//narrative
+
+ScrollReveal({reset:true}).reveal('.left', { distance: '100px' ,origin:'left',delay:150});
+ScrollReveal({reset:true}).reveal('.right', { distance: '100px' ,origin:'right',delay:150});
+
+//carcarouselExampleIndicators
+
+ScrollReveal({reset:true}).reveal('.item', { distance: '100px' ,origin:'bottom'});
+
 })

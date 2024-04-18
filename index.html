@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="styleutil1.css">
     <link rel="stylesheet" href="styleutil2.css">
     <link rel="stylesheet" href="stylemediaqueries.css">
+    <script src="https://unpkg.com/scrollreveal"></script>
+
 </head>
 
 <body>
@@ -41,7 +43,7 @@
         </div>
         
     </header>
-    <div class="header">
+    <div class="header items vertical-top">
         <h1 class="center mxltop custom-color">"Prevention is better than cure."</h1>
         <h2 class="center fw-normal mstop custom-color">Prevent COVID-19</h2>
         <h2 class="center fw-normal mstop custom-color">Stay Home, Stay Safe!</h2>
@@ -54,7 +56,7 @@
         <div class="body-wrapper mxltop">
             <div class="prevention-section">
                 <h2 class="center fw-normal custom-color">HOW TO PREVENT COVID-19?</h2>
-                <div class="prevention-methods mtop">
+                <div class="prevention-methods mtop item">
                     <div class="prevention">
                         <div class="prevention-logo">
                             <img src="images/pre-1.png" alt="">
@@ -83,7 +85,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="prevention-methods mtop">
+                <div class="prevention-methods item mtop">
                     <div class="prevention">
                         <div class="prevention-logo">
                             <img src="images/pre-4.png" alt="">
@@ -116,10 +118,10 @@
             <div class="symptoms mxltop">
                 <h2 class="center custom-color fw-normal">COVID-19 Symptoms</h2>
                 <div class="symptom-wrapper mtop">
-                    <div class="section1">
+                    <div class="section1 left">
                         <img src="images/main-symp-img.png" alt="">
                     </div>
-                    <div class="section-wrapper">
+                    <div class="section-wrapper right">
                         <div class="section2">
                             <div class="img">
                                 <img src="images/symp-a.png" alt="">
@@ -152,16 +154,18 @@
                     </div>
                     
                 </div>
-                <h3 class="center custom-color mtop fw-normal">Experiencing one or more of these symtoms? Get your symptoms checked <a href="test.html">here</a>.</h3>
-                <p class="font-size-25px b custom-color center mstop">OR</p>
-                <div class="contact-btn">
-                    <button class="btn">Contact Us</button>
+                <div class="vertical-bottom">
+                    <h3 class="center custom-color mtop fw-normal">Experiencing one or more of these symtoms? Get your symptoms checked <a href="test.html">here</a>.</h3>
+                    <p class="font-size-25px b custom-color center mstop">OR</p>
+                    <div class="contact-btn">
+                        <button class="btn">Contact Us</button>
+                    </div>
                 </div>
             </div>
             <div class="prevent mxltop">
                 <h2 class="center custom-color fw-normal">TAKE PRECAUTIONS AGAINST COVID-19</h2>
                 <div class="prevent-wrapper mltop">
-                    <div class="todo">
+                    <div class="todo left">
                         <div class="todo-header">
                             <h2 class="center fw-normal white">Things You Should DO</h2>
                         </div>
@@ -209,7 +213,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="nottodo">
+                    <div class="nottodo right">
                         <div class="nottodo-header">
                             <h2 class="center fw-normal">Things You Should NOT DO</h2>
                         </div>
@@ -261,7 +265,7 @@
             </div>
             <div class="covid-data mxltop">
                 <h2 class="custom-color fw-normal center">COVID-19 DATA & SERVICES</h2>
-                <section class="services-container mltop">
+                <section class="services-container mltop vertical-bottom">
                     <!--<div class="data-visualization">
                         <h3 class="custom-color">Data Visualization</h3>
                         <div class="chart-container">
@@ -269,7 +273,7 @@
                             <div id="chart2" class="chart"></div>
                         </div>
                     </div>-->
-                    <div class="global-covid-information">
+                    <div class="global-covid-information ">
                         <h3 class="custom-color center font-size-20px">Global Information</h3>
                         <div class="global-control mtop">
                             <div class="global">
@@ -292,7 +296,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="regional-information mbot mtop">
+                    <div class="regional-information  mbot mtop">
                         <h3 class="custom-color center font-size-20px">Regional Information</h3>
                         <div class="region-control mxstop">
                             <div class="country-input-wrapper">
@@ -349,9 +353,9 @@
                     </div>
                 </section>
             </div>
-            <div class="consult-doctor mxltop ">
+            <div class="consult-doctor mxltop">
                 <h2 class="center custom-color fw-normal">CONSULT OUR DOCTORS</h2>
-                <div class="consult-doctor-wrapper mltop">
+                <div class="consult-doctor-wrapper mltop vertical-bottom">
                     <div class="doctor">
                         <div class="photo">
                             <img src="images/doc1.png" alt="">
@@ -401,10 +405,10 @@
             <div class="wash mxltop">
                 <h2 class="center custom-color fw-normal">WASH YOUR HAND PROPERLY</h2>
                 <div class="wash-wrapper mtop">
-                    <div class="wash-section1">
+                    <div class="wash-section1 left">
                         <img src="images/main-wash-img.png" alt="">
                     </div>
-                    <div class="section-wrapper">
+                    <div class="section-wrapper right">
                         <div class="wash-section2">
                             <div class="img">
                                 <img src="images/wash-a.png" alt="">
@@ -493,5 +497,6 @@
     <script src="script.js"></script>
     <script src="data.js"></script>
     <script src="covidNewsApi.js"></script>
+
 </body>
 </html>
